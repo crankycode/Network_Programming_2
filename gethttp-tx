@@ -1,0 +1,4 @@
+GET /example.txt HTTP/1.1
+Host: yallara.cs.rmit.edu.au
+Connection: close
+

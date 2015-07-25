@@ -1,0 +1,2524 @@
+
+7/9/2011  17:57:54 server-single 1.2.2
+7/9/2011  17:57:54 initialization complete
+7/9/2011  17:57:54 initialization complete
+7/9/2011  17:57:54 listening on port 40356
+7/9/2011  17:58:10 131.170.205.159 40356 ass2test/index.html 200 OK 1906 0
+7/9/2011  17:58:10 listening on port 40356
+7/9/2011  17:58:10 131.170.205.159 40356 ass2test/  1651719712 0
+7/9/2011  17:58:10 listening on port 40356
+7/9/2011  17:58:10 131.170.205.159 40356 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 1745789855 0
+7/9/2011  17:58:10 listening on port 40356
+7/9/2011  17:58:10 131.170.205.159 40356 ass2test/index.html 200 OK 1414813601 0
+7/9/2011  17:58:10 listening on port 40356
+7/9/2011  17:58:10 131.170.205.159 40356 ass2test/index.html 200 OK 1196252018 0
+7/9/2011  17:58:10 listening on port 40356
+7/9/2011  17:58:10 131.170.205.159 40356 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 1652014751 0
+7/9/2011  17:58:10 listening on port 40356
+7/9/2011  17:58:10 131.170.205.159 40356 ass2test/index.html 200 OK 1745791761 0
+7/9/2011  17:58:10 listening on port 40356
+7/9/2011  17:58:10 131.170.205.159 40356 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 1127722735 0
+7/9/2011  17:58:10 listening on port 40356
+7/9/2011  17:58:14 shutdown request
+7/9/2011  17:58:29 server-single 1.2.2
+7/9/2011  17:58:29 initialization complete
+7/9/2011  17:58:29 initialization complete
+7/9/2011  17:58:29 listening on port 40356
+7/9/2011  17:58:36 listening on port 40356
+7/9/2011  17:58:37 listening on port 40356
+7/9/2011  17:58:38 listening on port 40356
+7/9/2011  17:58:42 listening on port 40356
+7/9/2011  17:58:42  40356 ass2test/index.html 200 OK 0 0
+7/9/2011  17:58:42 listening on port 40356
+7/9/2011  17:58:42 listening on port 40356
+7/9/2011  17:58:42  40356 ass2test/  0 4
+7/9/2011  17:58:42 listening on port 40356
+7/9/2011  17:58:42 listening on port 40356
+7/9/2011  17:58:42 listening on port 40356
+7/9/2011  17:58:42  40356 ass2test/index.html 200 OK 0 4
+7/9/2011  17:58:42 listening on port 40356
+7/9/2011  17:58:42  40356 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 0 4
+7/9/2011  17:58:42 listening on port 40356
+7/9/2011  17:58:42 listening on port 40356
+7/9/2011  17:58:42  40356 ass2test/index.html 200 OK 0 4
+7/9/2011  17:58:42 listening on port 40356
+7/9/2011  17:58:42 listening on port 40356
+7/9/2011  17:58:42  40356 ass2test/index.html 200 OK 0 4
+7/9/2011  17:58:42 listening on port 40356
+7/9/2011  17:58:42 listening on port 40356
+7/9/2011  17:58:42  40356 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 0 4
+7/9/2011  17:58:42 listening on port 40356
+7/9/2011  17:58:44 listening on port 40356
+7/9/2011  17:58:44 shutdown request
+7/9/2011  17:58:44 listening on port 40356
+7/9/2011  17:58:52  40356 ass2test/example.txt 200 OK 0 0
+7/9/2011  17:58:53  40356 ass2test/example.txt 200 OK 0 0
+7/9/2011  17:59:31  40356 ass2test/example.txt 200 OK 0 0
+7/9/2011  17:59:31 all connection closed
+7/9/2011  17:59:31 terminating server
+7/9/2011  17:59:49 server-single 1.2.2
+7/9/2011  17:59:49 initialization complete
+7/9/2011  17:59:49 initialization complete
+7/9/2011  17:59:49 listening on port 40356
+7/9/2011  17:59:54 listening on port 40356
+7/9/2011  17:59:55 listening on port 40356
+7/9/2011  17:59:57 listening on port 40356
+7/9/2011  18:0: 1 listening on port 40356
+7/9/2011  18:0: 1  40356 ass2test/index.html 200 OK 0 0
+7/9/2011  18:0: 1 listening on port 40356
+7/9/2011  18:0: 1  40356 ass2test/  0 0
+7/9/2011  18:0: 1 listening on port 40356
+7/9/2011  18:0: 1 listening on port 40356
+7/9/2011  18:0: 1  40356 ass2test/index.html 200 OK 1634495585 0
+7/9/2011  18:0: 1  40356 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 0 0
+7/9/2011  18:0: 1 listening on port 40356
+7/9/2011  18:0: 1  40356 ass2test/index.html 200 OK 0 0
+7/9/2011  18:0: 1 listening on port 40356
+7/9/2011  18:0: 1 listening on port 40356
+7/9/2011  18:0: 1  40356 ass2test/index.html 200 OK 1634495585 0
+7/9/2011  18:0: 1  40356 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 1409286144 0
+7/9/2011  18:0: 1 listening on port 40356
+7/9/2011  18:0: 1  40356 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 1330851637 0
+7/9/2011  18:0: 4 listening on port 40356
+7/9/2011  18:0: 4 shutdown request
+7/9/2011  18:0: 4  40356 ass2test/ 200 OK 1409286144 0
+7/9/2011  18:0:10  40356 ass2test/example.txt 200 OK 1852142646 0
+7/9/2011  18:0:12  40356 ass2test/example.txt 200 OK 0 0
+7/9/2011  18:0:49  40356 ass2test/example.txt 200 OK 0 0
+7/9/2011  18:0:49 all connection closed
+7/9/2011  18:0:49 terminating server
+7/9/2011  18:0:58 server-single 1.2.2
+7/9/2011  18:0:58 initialization complete
+7/9/2011  18:0:58 initialization complete
+7/9/2011  18:1: 2 listening on port 40356
+7/9/2011  18:1:57 131.170.24.42 40356 ass2test/example.txt 200 OK 0 0
+7/9/2011  18:1:57 listening on port 40356
+7/9/2011  18:1:57 listening on port 40356
+7/9/2011  18:1:57 131.170.24.42 40356 ass2test/example.txt 200 OK -1 134
+7/9/2011  18:1:57 131.170.24.42 40356 ass2test/example.txt 200 OK 0 134
+7/9/2011  18:2: 3 listening on port 40356
+7/9/2011  18:2:18 131.170.24.42 40356 ass2test/example.txt 200 OK 0 134
+7/9/2011  18:2:18 listening on port 40356
+7/9/2011  18:2:28 131.170.24.42 40356 ass2test/example.txt 200 OK 0 134
+7/9/2011  18:2:28 listening on port 40356
+7/9/2011  18:3:19 131.170.24.42 40356 ass2test/example.txt 200 OK 0 134
+7/9/2011  18:3:19 listening on port 40356
+7/9/2011  18:3:19 listening on port 40356
+7/9/2011  18:3:19 listening on port 40356
+7/9/2011  18:3:19 131.170.205.159 40356 ass2test/  441 32
+7/9/2011  18:3:19 131.170.205.159 40356 ass2test/index.html 200 OK -1 134
+7/9/2011  18:3:19 131.170.205.159 40356 ass2test/index.html 200 OK 0 134
+7/9/2011  18:3:19 listening on port 40356
+7/9/2011  18:3:19 131.170.205.159 40356 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK -1 134
+7/9/2011  18:3:19 listening on port 40356
+7/9/2011  18:3:19 131.170.205.159 40356 ass2test/index.html 200 OK 0 134
+7/9/2011  18:3:19 listening on port 40356
+7/9/2011  18:3:19 131.170.205.159 40356 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK -1 134
+7/9/2011  18:3:19 listening on port 40356
+7/9/2011  18:3:19 131.170.205.159 40356 ass2test/index.html 200 OK 0 11
+7/9/2011  18:3:19 listening on port 40356
+7/9/2011  18:3:19 131.170.205.159 40356 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK -1 134
+11/9/2011  13:20:31 server-single 1.2.2
+11/9/2011  13:20:31 initialization complete
+11/9/2011  13:20:31 initialization complete
+11/9/2011  13:20:31 listening on port 40356
+11/9/2011  13:20:34 listening on port 40356
+11/9/2011  13:21:19  40356 ass2test/Assignment Two 2011.pdf 200 OK 0 0
+11/9/2011  13:21:19 listening on port 40356
+11/9/2011  13:26:43 listening on port 40356
+11/9/2011  13:26:43  40356 ass2test/  0 4
+11/9/2011  13:26:43 listening on port 40356
+11/9/2011  13:30:33 listening on port 40356
+11/9/2011  13:30:33  40356 ass2test/index.html 200 OK 0 4
+11/9/2011  13:30:33 listening on port 40356
+11/9/2011  13:30:33 listening on port 40356
+11/9/2011  13:30:33  40356 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 0 4
+11/9/2011  13:30:33 listening on port 40356
+11/9/2011  13:31: 2 listening on port 40356
+11/9/2011  13:31: 2  40356 ass2test/status.htm 404 Not Found 0 2
+11/9/2011  13:31: 2 listening on port 40356
+11/9/2011  13:31:10 listening on port 40356
+11/9/2011  13:31:10  40356 ass2test/  0 4
+11/9/2011  13:31:10 listening on port 40356
+11/9/2011  13:31:13 listening on port 40356
+11/9/2011  13:31:13  40356 ass2test/config/status.html 404 Not Found 0 2
+11/9/2011  13:31:13 listening on port 40356
+11/9/2011  13:31:52 listening on port 40356
+11/9/2011  13:31:52  40356 ass2test/  0 4
+11/9/2011  13:31:52 listening on port 40356
+11/9/2011  13:32: 3 listening on port 40356
+11/9/2011  13:32: 3 all connection closed
+11/9/2011  13:32: 3 terminating server
+11/9/2011  13:32: 6 server-single 1.2.2
+11/9/2011  13:32: 6 initialization complete
+11/9/2011  13:32: 6 initialization complete
+11/9/2011  13:32: 6 listening on port 40356
+11/9/2011  13:32: 9 listening on port 40356
+11/9/2011  13:32: 9  40356 ass2test/  0 0
+11/9/2011  13:32: 9 listening on port 40356
+11/9/2011  13:32:19 listening on port 40356
+11/9/2011  13:32:19  40356 ass2test/  0 4
+11/9/2011  13:32:19 listening on port 40356
+11/9/2011  13:32:30 listening on port 40356
+11/9/2011  13:32:30 all connection closed
+11/9/2011  13:32:30 terminating server
+11/9/2011  13:50: 9 server-single 1.2.2
+11/9/2011  13:50: 9 initialization complete
+11/9/2011  13:50: 9 initialization complete
+11/9/2011  13:50: 9 listening on port 40355
+11/9/2011  13:50:27 listening on port 40355
+11/9/2011  13:50:27  40355 ass2test/  0 0
+11/9/2011  13:50:27 listening on port 40355
+11/9/2011  13:51:39 listening on port 40355
+11/9/2011  13:51:39 all connection closed
+11/9/2011  13:51:39 terminating server
+11/9/2011  13:52: 5 server-single 1.2.2
+11/9/2011  13:52: 5 initialization complete
+11/9/2011  13:52: 5 initialization complete
+11/9/2011  13:52: 5 listening on port 40355
+11/9/2011  13:52:10 listening on port 40355
+11/9/2011  13:52:10  40355 ass2test/  0 0
+11/9/2011  13:52:10 listening on port 40355
+11/9/2011  13:52:13 listening on port 40355
+11/9/2011  13:52:13  40355 ass2test/  0 4
+11/9/2011  13:52:13 listening on port 40355
+11/9/2011  13:53:40 listening on port 40355
+11/9/2011  13:53:40 all connection closed
+11/9/2011  13:53:40 terminating server
+11/9/2011  13:54: 3 server-single 1.2.2
+11/9/2011  13:54: 3 initialization complete
+11/9/2011  13:54: 3 initialization complete
+11/9/2011  13:54:11 listening on port 40355
+11/9/2011  13:54:11 131.170.90.6 40355 ass2test/  443 0
+11/9/2011  13:54:14 listening on port 40355
+11/9/2011  13:54:14 131.170.90.6 40355 ass2test/  443 0
+11/9/2011  13:54:15 listening on port 40355
+11/9/2011  13:54:15 131.170.90.6 40355 ass2test/  443 0
+11/9/2011  13:54:15 listening on port 40355
+11/9/2011  13:54:15 131.170.90.6 40355 ass2test/  443 0
+11/9/2011  13:54:20 listening on port 40355
+11/9/2011  13:54:20 131.170.90.6 40355 ass2test/  443 0
+11/9/2011  13:54:24 listening on port 40355
+11/9/2011  13:54:24 131.170.90.6 40355 ass2test/  443 0
+11/9/2011  13:54:28 listening on port 40355
+11/9/2011  13:54:28 131.170.90.6 40355 ass2test/  443 0
+11/9/2011  13:54:28 listening on port 40355
+11/9/2011  13:54:28 131.170.90.6 40355 ass2test/  443 0
+11/9/2011  13:54:36 listening on port 40355
+11/9/2011  13:54:36 all connection closed
+11/9/2011  13:54:36 terminating server
+11/9/2011  13:54:40 server-single 1.2.2
+11/9/2011  13:54:40 initialization complete
+11/9/2011  13:54:40 initialization complete
+11/9/2011  13:55:49 server-single 1.2.2
+11/9/2011  13:55:49 initialization complete
+11/9/2011  13:55:49 initialization complete
+11/9/2011  13:55:56 listening on port 40356
+11/9/2011  13:55:56 131.170.90.6 40356 ass2test/  443 0
+11/9/2011  13:55:58 listening on port 40356
+11/9/2011  13:55:58 131.170.90.6 40356 ass2test/  443 0
+11/9/2011  13:55:59 listening on port 40356
+11/9/2011  13:55:59 131.170.90.6 40356 ass2test/  443 11
+11/9/2011  13:55:59 listening on port 40356
+11/9/2011  13:55:59 131.170.90.6 40356 ass2test/  443 11
+11/9/2011  13:56: 0 listening on port 40356
+11/9/2011  13:56: 0 131.170.90.6 40356 ass2test/  442 11
+11/9/2011  13:56: 0 listening on port 40356
+11/9/2011  13:56: 0 131.170.90.6 40356 ass2test/  442 11
+11/9/2011  13:56: 1 listening on port 40356
+11/9/2011  13:56: 1 131.170.90.6 40356 ass2test/  442 11
+11/9/2011  13:56: 2 listening on port 40356
+11/9/2011  13:56: 2 131.170.90.6 40356 ass2test/  442 11
+11/9/2011  13:56: 3 listening on port 40356
+11/9/2011  13:56: 3 131.170.90.6 40356 ass2test/  442 11
+11/9/2011  13:56: 3 listening on port 40356
+11/9/2011  13:56: 3 131.170.90.6 40356 ass2test/  443 11
+11/9/2011  13:56: 5 listening on port 40356
+11/9/2011  13:56: 5 131.170.90.6 40356 ass2test/  443 11
+11/9/2011  13:56: 5 listening on port 40356
+11/9/2011  13:56: 5 131.170.90.6 40356 ass2test/  443 11
+11/9/2011  13:56: 6 listening on port 40356
+11/9/2011  13:56: 6 131.170.90.6 40356 ass2test/  443 11
+11/9/2011  13:56: 7 listening on port 40356
+11/9/2011  13:56: 7 131.170.90.6 40356 ass2test/  443 11
+11/9/2011  13:56: 8 listening on port 40356
+11/9/2011  13:56: 8 131.170.90.6 40356 ass2test/  443 11
+11/9/2011  13:56: 9 listening on port 40356
+11/9/2011  13:56: 9 131.170.90.6 40356 ass2test/  443 11
+11/9/2011  13:56:17 server-single 1.2.2
+11/9/2011  13:56:17 initialization complete
+11/9/2011  13:56:17 initialization complete
+11/9/2011  13:56:17 listening on port 40356
+11/9/2011  13:56:19 listening on port 40356
+11/9/2011  13:56:19  40356 ass2test/  0 0
+11/9/2011  13:56:19 listening on port 40356
+11/9/2011  13:56:20 listening on port 40356
+11/9/2011  13:56:20  40356 ass2test/  0 4
+11/9/2011  13:56:20 listening on port 40356
+11/9/2011  13:56:20 listening on port 40356
+11/9/2011  13:56:20  40356 ass2test/favicon.ico 404 Not Found 0 2
+11/9/2011  13:56:21 listening on port 40356
+11/9/2011  13:56:41 listening on port 40356
+11/9/2011  13:56:41 all connection closed
+11/9/2011  13:56:41 terminating server
+11/9/2011  13:56:43 server-single 1.2.2
+11/9/2011  13:56:43 initialization complete
+11/9/2011  13:56:43 initialization complete
+11/9/2011  13:56:44 listening on port 40356
+11/9/2011  13:56:44 131.170.90.6 40356 ass2test/  443 0
+11/9/2011  13:56:47 listening on port 40356
+11/9/2011  13:56:47 131.170.90.6 40356 ass2test/  443 0
+11/9/2011  13:56:47 listening on port 40356
+11/9/2011  13:56:47 131.170.90.6 40356 ass2test/  443 0
+11/9/2011  13:56:47 listening on port 40356
+11/9/2011  13:56:47 131.170.90.6 40356 ass2test/  443 0
+11/9/2011  13:56:48 listening on port 40356
+11/9/2011  13:56:48 131.170.90.6 40356 ass2test/  443 0
+11/9/2011  13:56:48 listening on port 40356
+11/9/2011  13:56:48 131.170.90.6 40356 ass2test/  443 0
+11/9/2011  13:56:49 listening on port 40356
+11/9/2011  13:56:49 131.170.90.6 40356 ass2test/  443 0
+11/9/2011  13:56:49 listening on port 40356
+11/9/2011  13:56:49 131.170.90.6 40356 ass2test/  443 11
+11/9/2011  13:56:50 listening on port 40356
+11/9/2011  13:56:50 131.170.90.6 40356 ass2test/  443 11
+11/9/2011  13:57:23 server-single 1.2.2
+11/9/2011  13:57:23 initialization complete
+11/9/2011  13:57:23 initialization complete
+11/9/2011  13:57:31 listening on port 40355
+11/9/2011  13:57:31 131.170.90.6 40355 ass2test/  443 0
+11/9/2011  13:57:33 listening on port 40355
+11/9/2011  13:57:33 131.170.90.6 40355 ass2test/  443 0
+11/9/2011  13:57:34 listening on port 40355
+11/9/2011  13:57:34 131.170.90.6 40355 ass2test/  443 0
+11/9/2011  13:57:34 listening on port 40355
+11/9/2011  13:57:34 131.170.90.6 40355 ass2test/  443 0
+11/9/2011  13:57:35 listening on port 40355
+11/9/2011  13:57:35 131.170.90.6 40355 ass2test/  443 0
+11/9/2011  13:57:35 listening on port 40355
+11/9/2011  13:57:35 131.170.90.6 40355 ass2test/  443 0
+11/9/2011  13:57:38 listening on port 40355
+11/9/2011  13:57:38 131.170.90.6 40355 ass2test/  443 0
+11/9/2011  13:57:43 listening on port 40355
+11/9/2011  13:57:43 131.170.90.6 40355 ass2test/  443 0
+11/9/2011  13:57:45 listening on port 40355
+11/9/2011  13:57:45 131.170.90.6 40355 ass2test/  443 0
+11/9/2011  13:57:46 listening on port 40355
+11/9/2011  13:57:46 131.170.90.6 40355 ass2test/  444 0
+11/9/2011  13:57:47 listening on port 40355
+11/9/2011  13:57:47 131.170.90.6 40355 ass2test/  444 0
+11/9/2011  13:57:54 listening on port 40355
+11/9/2011  13:57:54 131.170.90.6 40355 ass2test/  444 0
+11/9/2011  13:58: 1 listening on port 40355
+11/9/2011  13:58: 1 all connection closed
+11/9/2011  13:58: 1 terminating server
+11/9/2011  13:58:19 server-single 1.2.2
+11/9/2011  13:58:19 initialization complete
+11/9/2011  13:58:19 initialization complete
+11/9/2011  13:58:29 listening on port 40355
+11/9/2011  13:58:29 131.170.90.6 40355 ass2test/  443 0
+11/9/2011  13:58:33 listening on port 40355
+11/9/2011  13:58:33 131.170.90.6 40355 ass2test/  443 0
+11/9/2011  14:3:41 server-single 1.2.2
+11/9/2011  14:3:41 initialization complete
+11/9/2011  14:3:41 initialization complete
+11/9/2011  14:3:41 listening on port 40355
+11/9/2011  14:3:58 131.170.90.4 40355 ass2test/  0 0
+11/9/2011  14:3:58 listening on port 40355
+11/9/2011  14:4: 1 131.170.90.4 40355 ass2test/  1651719712 0
+11/9/2011  14:4: 1 listening on port 40355
+11/9/2011  14:4: 1 131.170.90.4 40355 ass2test/favicon.ico 404 Not Found 1745494816 2
+11/9/2011  14:4: 1 listening on port 40355
+11/9/2011  14:4:15 131.170.90.4 40355 ass2test/index.html 200 OK 1414813601 2
+11/9/2011  14:4:15 listening on port 40355
+11/9/2011  14:4:15 131.170.90.4 40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 1215558643 2
+11/9/2011  14:4:15 listening on port 40355
+11/9/2011  14:4:46 131.170.90.4 40355 ass2test/index.htmla 404 Not Found 1651719712 2
+11/9/2011  14:4:46 listening on port 40355
+11/9/2011  14:8:53 131.170.90.4 40355 ass2test/  1745494816 2
+11/9/2011  14:8:53 listening on port 40355
+11/9/2011  14:8:55 131.170.90.4 40355 ass2test/  822938184 2
+11/9/2011  14:8:55 listening on port 40355
+11/9/2011  14:9: 8 shutdown request
+11/9/2011  14:9:12 server-single 1.2.2
+11/9/2011  14:9:12 initialization complete
+11/9/2011  14:9:12 initialization complete
+11/9/2011  14:9:12 listening on port 40355
+11/9/2011  14:9:14 131.170.90.4 40355 ass2test/config/kill -15 27064 404 Not Found 0 2
+11/9/2011  14:9:14 listening on port 40355
+11/9/2011  14:9:22 131.170.90.4 40355 ass2test/  1651719712 2
+11/9/2011  14:9:22 listening on port 40355
+11/9/2011  14:9:23 131.170.90.4 40355 ass2test/  1745494816 2
+11/9/2011  14:9:23 listening on port 40355
+11/9/2011  14:9:41 server-single 1.2.2
+11/9/2011  14:9:41 initialization complete
+11/9/2011  14:9:41 initialization complete
+11/9/2011  14:9:41 listening on port 40355
+11/9/2011  14:9:46 131.170.90.4 40355 ass2test/  0 0
+11/9/2011  14:9:46 listening on port 40355
+11/9/2011  14:9:48 131.170.90.4 40355 ass2test/  1651719712 0
+11/9/2011  14:9:48 listening on port 40355
+11/9/2011  14:10:33 server-single 1.2.2
+11/9/2011  14:10:33 initialization complete
+11/9/2011  14:10:33 initialization complete
+11/9/2011  14:10:33 listening on port 40355
+11/9/2011  14:10:35 131.170.90.4 40355 ass2test/  0 0
+11/9/2011  14:10:35 listening on port 40355
+11/9/2011  14:10:35 131.170.90.4 40355 ass2test/  1651719712 0
+11/9/2011  14:10:35 listening on port 40355
+11/9/2011  14:10:36 131.170.90.4 40355 ass2test/  1745494816 0
+11/9/2011  14:10:36 listening on port 40355
+11/9/2011  14:10:36 131.170.90.4 40355 ass2test/  1414811695 0
+11/9/2011  14:10:36 listening on port 40355
+11/9/2011  14:11:52 server-single 1.2.2
+11/9/2011  14:11:52 initialization complete
+11/9/2011  14:11:52 initialization complete
+11/9/2011  14:11:52 listening on port 40355
+11/9/2011  14:11:59 listening on port 40355
+11/9/2011  14:11:59  40355 ass2test/index.html 200 OK 0 0
+11/9/2011  14:11:59 listening on port 40355
+11/9/2011  14:11:59 listening on port 40355
+11/9/2011  14:11:59  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 0 4
+11/9/2011  14:11:59 listening on port 40355
+11/9/2011  14:12: 0 listening on port 40355
+11/9/2011  14:12: 0  40355 ass2test/index.html 200 OK 0 4
+11/9/2011  14:12: 0 listening on port 40355
+11/9/2011  14:12: 0 listening on port 40355
+11/9/2011  14:12: 0  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 0 4
+11/9/2011  14:12: 0 listening on port 40355
+11/9/2011  14:12: 1 listening on port 40355
+11/9/2011  14:12: 1  40355 ass2test/index.html 200 OK 0 4
+11/9/2011  14:12: 1 listening on port 40355
+11/9/2011  14:12: 1 listening on port 40355
+11/9/2011  14:12: 1  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 0 32
+11/9/2011  14:12: 1 listening on port 40355
+11/9/2011  14:12: 1  40355 ass2test/index.html 200 OK 0 4
+11/9/2011  14:12: 1 listening on port 40355
+11/9/2011  14:12: 1 listening on port 40355
+11/9/2011  14:12: 1  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 0 4
+11/9/2011  14:12: 1 listening on port 40355
+11/9/2011  14:12: 1 listening on port 40355
+11/9/2011  14:12: 1  40355 ass2test/index.html 200 OK 0 4
+11/9/2011  14:12: 1 listening on port 40355
+11/9/2011  14:12: 1 listening on port 40355
+11/9/2011  14:12: 1  40355 ass2test/index.html 200 OK 0 4
+11/9/2011  14:12: 1 listening on port 40355
+11/9/2011  14:12: 1 listening on port 40355
+11/9/2011  14:12: 1  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 0 32
+11/9/2011  14:12: 1 listening on port 40355
+11/9/2011  14:12: 1 listening on port 40355
+11/9/2011  14:12: 1  40355 ass2test/index.html 200 OK 0 4
+11/9/2011  14:12: 1 listening on port 40355
+11/9/2011  14:12: 1 listening on port 40355
+11/9/2011  14:12: 1  40355 ass2test/index.html 200 OK 0 4
+11/9/2011  14:12: 1 listening on port 40355
+11/9/2011  14:12: 1 listening on port 40355
+11/9/2011  14:12: 1 listening on port 40355
+11/9/2011  14:12: 1  40355 ass2test/index.html 200 OK 0 4
+11/9/2011  14:12: 1 listening on port 40355
+11/9/2011  14:12: 1 listening on port 40355
+11/9/2011  14:12: 1  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 0 32
+11/9/2011  14:12: 1 listening on port 40355
+11/9/2011  14:12: 1 listening on port 40355
+11/9/2011  14:12: 1  40355 ass2test/index.html 200 OK 0 4
+11/9/2011  14:12: 1 listening on port 40355
+11/9/2011  14:12: 1 listening on port 40355
+11/9/2011  14:12: 1  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 0 32
+11/9/2011  14:12: 1 listening on port 40355
+11/9/2011  14:12: 1 listening on port 40355
+11/9/2011  14:12: 1  40355 ass2test/index.html 200 OK 0 4
+11/9/2011  14:12: 1 listening on port 40355
+11/9/2011  14:12: 1 listening on port 40355
+11/9/2011  14:12: 1 listening on port 40355
+11/9/2011  14:12: 1  40355 ass2test/index.html 200 OK 0 4
+11/9/2011  14:12: 1 listening on port 40355
+11/9/2011  14:12: 1 listening on port 40355
+11/9/2011  14:12: 1 listening on port 40355
+11/9/2011  14:12: 1  40355 ass2test/index.html 200 OK 0 4
+11/9/2011  14:12: 1 listening on port 40355
+11/9/2011  14:12: 1 listening on port 40355
+11/9/2011  14:12: 1 listening on port 40355
+11/9/2011  14:12: 1  40355 ass2test/index.html 200 OK 0 4
+11/9/2011  14:12: 1 listening on port 40355
+11/9/2011  14:12: 1 listening on port 40355
+11/9/2011  14:12: 1  40355 ass2test/index.html 200 OK 0 4
+11/9/2011  14:12: 1 listening on port 40355
+11/9/2011  14:12: 1 listening on port 40355
+11/9/2011  14:12: 1  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 0 32
+11/9/2011  14:12: 1 listening on port 40355
+11/9/2011  14:12: 1  40355 ass2test/index.html 200 OK 0 4
+11/9/2011  14:12: 1 listening on port 40355
+11/9/2011  14:12: 1 listening on port 40355
+11/9/2011  14:12: 1 listening on port 40355
+11/9/2011  14:12: 1  40355 ass2test/index.html 200 OK 0 4
+11/9/2011  14:12: 1 listening on port 40355
+11/9/2011  14:12: 1 listening on port 40355
+11/9/2011  14:12: 1  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 0 32
+11/9/2011  14:12: 1 listening on port 40355
+11/9/2011  14:12: 1 listening on port 40355
+11/9/2011  14:12: 1  40355 ass2test/index.html 200 OK 0 4
+11/9/2011  14:12: 1 listening on port 40355
+11/9/2011  14:12: 1 listening on port 40355
+11/9/2011  14:12: 1 listening on port 40355
+11/9/2011  14:12: 1  40355 ass2test/index.html 200 OK 0 4
+11/9/2011  14:12: 1 listening on port 40355
+11/9/2011  14:12: 1 listening on port 40355
+11/9/2011  14:12: 1 listening on port 40355
+11/9/2011  14:12: 1  40355 ass2test/index.html 200 OK 0 4
+11/9/2011  14:12: 1 listening on port 40355
+11/9/2011  14:12: 1 listening on port 40355
+11/9/2011  14:12: 1 listening on port 40355
+11/9/2011  14:12: 1  40355 ass2test/index.html 200 OK 538998304 4
+11/9/2011  14:12: 1 listening on port 40355
+11/9/2011  14:12: 1 listening on port 40355
+11/9/2011  14:12: 1  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 538998304 32
+11/9/2011  14:12: 1 listening on port 40355
+11/9/2011  14:12: 1 listening on port 40355
+11/9/2011  14:12: 1  40355 ass2test/index.html 200 OK 538998304 4
+11/9/2011  14:12: 1 listening on port 40355
+11/9/2011  14:12: 1 listening on port 40355
+11/9/2011  14:12: 1  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 0 32
+11/9/2011  14:12: 1 listening on port 40355
+11/9/2011  14:12: 1  40355 ass2test/index.html 200 OK 538998304 4
+11/9/2011  14:12: 1 listening on port 40355
+11/9/2011  14:12: 2 listening on port 40355
+11/9/2011  14:12: 2 listening on port 40355
+11/9/2011  14:12: 2 listening on port 40355
+11/9/2011  14:12: 2  40355 ass2test/index.html 200 OK 538998304 4
+11/9/2011  14:12: 2 listening on port 40355
+11/9/2011  14:12: 2 listening on port 40355
+11/9/2011  14:12: 2 listening on port 40355
+11/9/2011  14:12: 2  40355 ass2test/index.html 200 OK 538998304 4
+11/9/2011  14:12: 2 listening on port 40355
+11/9/2011  14:12: 2  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 0 32
+11/9/2011  14:12: 2 listening on port 40355
+11/9/2011  14:12: 2  40355 ass2test/index.html 200 OK 538998304 4
+11/9/2011  14:12: 2 listening on port 40355
+11/9/2011  14:12: 2 listening on port 40355
+11/9/2011  14:12: 2 listening on port 40355
+11/9/2011  14:12: 2  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 0 32
+11/9/2011  14:12: 2 listening on port 40355
+11/9/2011  14:12: 2  40355 ass2test/index.html 200 OK 538998304 4
+11/9/2011  14:12: 2 listening on port 40355
+11/9/2011  14:12: 2 listening on port 40355
+11/9/2011  14:12: 2 listening on port 40355
+11/9/2011  14:12: 2  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 538998304 32
+11/9/2011  14:12: 2 listening on port 40355
+11/9/2011  14:12: 2  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 0 32
+11/9/2011  14:12: 2 listening on port 40355
+11/9/2011  14:12: 2  40355 ass2test/index.html 200 OK 538998304 4
+11/9/2011  14:12: 2 listening on port 40355
+11/9/2011  14:12: 2 listening on port 40355
+11/9/2011  14:12: 2 listening on port 40355
+11/9/2011  14:12: 2  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 538998304 32
+11/9/2011  14:12: 2 listening on port 40355
+11/9/2011  14:12: 2 listening on port 40355
+11/9/2011  14:12: 2  40355 ass2test/index.html 200 OK 538998304 4
+11/9/2011  14:12: 2 listening on port 40355
+11/9/2011  14:12: 2 listening on port 40355
+11/9/2011  14:12: 2  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 538998304 32
+11/9/2011  14:12: 2 listening on port 40355
+11/9/2011  14:12: 2 listening on port 40355
+11/9/2011  14:12: 2  40355 ass2test/index.html 200 OK 538998304 4
+11/9/2011  14:12: 2 listening on port 40355
+11/9/2011  14:12: 2 listening on port 40355
+11/9/2011  14:12: 2  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 538998304 32
+11/9/2011  14:12: 2 listening on port 40355
+11/9/2011  14:12: 2  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 0 32
+11/9/2011  14:12: 2 listening on port 40355
+11/9/2011  14:12: 2  40355 ass2test/index.html 200 OK 538998304 4
+11/9/2011  14:12: 2 listening on port 40355
+11/9/2011  14:12: 2 listening on port 40355
+11/9/2011  14:12: 2 listening on port 40355
+11/9/2011  14:12: 2 listening on port 40355
+11/9/2011  14:12: 2  40355 ass2test/index.html 200 OK 538998304 4
+11/9/2011  14:12: 2 listening on port 40355
+11/9/2011  14:12: 2 listening on port 40355
+11/9/2011  14:12: 2  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 538998304 32
+11/9/2011  14:12: 2  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 0 32
+11/9/2011  14:12: 2 listening on port 40355
+11/9/2011  14:12: 2 listening on port 40355
+11/9/2011  14:12: 2 listening on port 40355
+11/9/2011  14:12: 2  40355 ass2test/index.html 200 OK 538998304 4
+11/9/2011  14:12: 2 listening on port 40355
+11/9/2011  14:12: 2 listening on port 40355
+11/9/2011  14:12: 2  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 0 32
+11/9/2011  14:12: 2 listening on port 40355
+11/9/2011  14:12: 2  40355 ass2test/index.html 200 OK 538998304 4
+11/9/2011  14:12: 2 listening on port 40355
+11/9/2011  14:12: 2 listening on port 40355
+11/9/2011  14:12: 2 listening on port 40355
+11/9/2011  14:12: 2  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 538998304 32
+11/9/2011  14:12: 2  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 538998304 32
+11/9/2011  14:12: 2 listening on port 40355
+11/9/2011  14:12: 2 listening on port 40355
+11/9/2011  14:12: 2 listening on port 40355
+11/9/2011  14:12: 2  40355 ass2test/index.html 200 OK 538998304 4
+11/9/2011  14:12: 2 listening on port 40355
+11/9/2011  14:12: 2 listening on port 40355
+11/9/2011  14:12: 2 listening on port 40355
+11/9/2011  14:12: 2  40355 ass2test/index.html 200 OK 538998304 4
+11/9/2011  14:12: 2 listening on port 40355
+11/9/2011  14:12: 2  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 538998304 32
+11/9/2011  14:12: 2 listening on port 40355
+11/9/2011  14:12: 2 listening on port 40355
+11/9/2011  14:12: 2 listening on port 40355
+11/9/2011  14:12: 2  40355 ass2test/index.html 200 OK 538998304 4
+11/9/2011  14:12: 2 listening on port 40355
+11/9/2011  14:12: 2  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 538998304 32
+11/9/2011  14:12: 2 listening on port 40355
+11/9/2011  14:12: 2 listening on port 40355
+11/9/2011  14:12: 2 listening on port 40355
+11/9/2011  14:12: 2  40355 ass2test/index.html 200 OK 538998304 4
+11/9/2011  14:12: 2 listening on port 40355
+11/9/2011  14:12: 2 listening on port 40355
+11/9/2011  14:12: 2 listening on port 40355
+11/9/2011  14:12: 2  40355 ass2test/index.html 200 OK 538998304 4
+11/9/2011  14:12: 2  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 538998304 32
+11/9/2011  14:12: 2 listening on port 40355
+11/9/2011  14:12: 2 listening on port 40355
+11/9/2011  14:12: 2  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 538998304 32
+11/9/2011  14:12: 2 listening on port 40355
+11/9/2011  14:12: 2 listening on port 40355
+11/9/2011  14:12: 2  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 538998304 32
+11/9/2011  14:12: 2 listening on port 40355
+11/9/2011  14:12: 2 listening on port 40355
+11/9/2011  14:12: 2  40355 ass2test/index.html 200 OK 538998304 4
+11/9/2011  14:12: 2 listening on port 40355
+11/9/2011  14:12: 2  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 538998304 32
+11/9/2011  14:12: 2 listening on port 40355
+11/9/2011  14:12: 2 listening on port 40355
+11/9/2011  14:12: 2  40355 ass2test/index.html 200 OK 538998304 4
+11/9/2011  14:12: 2 listening on port 40355
+11/9/2011  14:12: 2 listening on port 40355
+11/9/2011  14:12: 2  40355 ass2test/index.html 200 OK 538998304 4
+11/9/2011  14:12: 2 listening on port 40355
+11/9/2011  14:12: 2 listening on port 40355
+11/9/2011  14:12: 2  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 538998304 32
+11/9/2011  14:12: 2 listening on port 40355
+11/9/2011  14:12: 2 listening on port 40355
+11/9/2011  14:12: 2  40355 ass2test/index.html 200 OK 538998304 4
+11/9/2011  14:12: 2 listening on port 40355
+11/9/2011  14:12: 2 listening on port 40355
+11/9/2011  14:12: 2 listening on port 40355
+11/9/2011  14:12: 2  40355 ass2test/index.html 200 OK 538998304 4
+11/9/2011  14:12: 2 listening on port 40355
+11/9/2011  14:12: 2  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 538998304 32
+11/9/2011  14:12: 2 listening on port 40355
+11/9/2011  14:12: 2 listening on port 40355
+11/9/2011  14:12: 2  40355 ass2test/index.html 200 OK 538998304 4
+11/9/2011  14:12: 2 listening on port 40355
+11/9/2011  14:12: 2 listening on port 40355
+11/9/2011  14:12: 2 listening on port 40355
+11/9/2011  14:12: 2 listening on port 40355
+11/9/2011  14:12: 2  40355 ass2test/index.html 200 OK 538998304 4
+11/9/2011  14:12: 2 listening on port 40355
+11/9/2011  14:12: 2  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 538998304 32
+11/9/2011  14:12: 2 listening on port 40355
+11/9/2011  14:12: 2 listening on port 40355
+11/9/2011  14:12: 2 listening on port 40355
+11/9/2011  14:12: 2  40355 ass2test/index.html 200 OK 538998304 4
+11/9/2011  14:12: 2 listening on port 40355
+11/9/2011  14:12: 2 listening on port 40355
+11/9/2011  14:12: 2  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 538998304 32
+11/9/2011  14:12: 2 listening on port 40355
+11/9/2011  14:12: 2 listening on port 40355
+11/9/2011  14:12: 2  40355 ass2test/index.html 200 OK 538998304 4
+11/9/2011  14:12: 2 listening on port 40355
+11/9/2011  14:12: 2 listening on port 40355
+11/9/2011  14:12: 2  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 538998304 32
+11/9/2011  14:12: 2 listening on port 40355
+11/9/2011  14:12: 2 listening on port 40355
+11/9/2011  14:12: 2  40355 ass2test/index.html 200 OK 538998304 4
+11/9/2011  14:12: 2 listening on port 40355
+11/9/2011  14:12: 2 listening on port 40355
+11/9/2011  14:12: 2  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 538998304 32
+11/9/2011  14:12: 2 listening on port 40355
+11/9/2011  14:12: 2  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 538998304 32
+11/9/2011  14:12: 2  40355 ass2test/index.html 200 OK 538998304 4
+11/9/2011  14:12: 2 listening on port 40355
+11/9/2011  14:12: 2  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 538998304 32
+11/9/2011  14:12: 3  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 538998304 32
+11/9/2011  14:12: 3  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 538998304 32
+11/9/2011  14:12: 3  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 538998304 32
+11/9/2011  14:12: 3  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 538998304 32
+11/9/2011  14:12: 3  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 538998304 32
+11/9/2011  14:12: 9 server-single 1.2.2
+11/9/2011  14:12: 9 initialization complete
+11/9/2011  14:12: 9 initialization complete
+11/9/2011  14:12: 9 listening on port 40355
+11/9/2011  14:12:10 listening on port 40355
+11/9/2011  14:12:10 listening on port 40355
+11/9/2011  14:12:10 listening on port 40355
+11/9/2011  14:12:10 listening on port 40355
+11/9/2011  14:12:10  40355 ass2test/index.html 200 OK 0 0
+11/9/2011  14:12:10  40355 ass2test/index.html 200 OK 0 0
+11/9/2011  14:12:10 listening on port 40355
+11/9/2011  14:12:10  40355 ass2test/index.html 200 OK 0 0
+11/9/2011  14:12:10  40355 ass2test/index.html 200 OK 0 0
+11/9/2011  14:12:10 listening on port 40355
+11/9/2011  14:12:10 listening on port 40355
+11/9/2011  14:12:10 listening on port 40355
+11/9/2011  14:12:10 listening on port 40355
+11/9/2011  14:12:10 listening on port 40355
+11/9/2011  14:12:10  40355 ass2test/index.html 200 OK 0 4
+11/9/2011  14:12:10  40355 ass2test/index.html 200 OK 0 4
+11/9/2011  14:12:10 listening on port 40355
+11/9/2011  14:12:10 listening on port 40355
+11/9/2011  14:12:10 listening on port 40355
+11/9/2011  14:12:10 listening on port 40355
+11/9/2011  14:12:10 listening on port 40355
+11/9/2011  14:12:10  40355 ass2test/index.html 200 OK 0 4
+11/9/2011  14:12:10 listening on port 40355
+11/9/2011  14:12:10  40355 ass2test/index.html 200 OK 0 4
+11/9/2011  14:12:10  40355 ass2test/index.html 200 OK 0 4
+11/9/2011  14:12:10 listening on port 40355
+11/9/2011  14:12:10  40355 ass2test/index.html 200 OK 0 4
+11/9/2011  14:12:10 listening on port 40355
+11/9/2011  14:12:10 listening on port 40355
+11/9/2011  14:12:10  40355 ass2test/index.html 200 OK 0 4
+11/9/2011  14:12:10 listening on port 40355
+11/9/2011  14:12:10 listening on port 40355
+11/9/2011  14:12:10  40355 ass2test/index.html 200 OK 0 4
+11/9/2011  14:12:10 listening on port 40355
+11/9/2011  14:12:10  40355 ass2test/index.html 200 OK 0 4
+11/9/2011  14:12:10 listening on port 40355
+11/9/2011  14:12:10 listening on port 40355
+11/9/2011  14:12:10 listening on port 40355
+11/9/2011  14:12:10  40355 ass2test/index.html 200 OK 0 4
+11/9/2011  14:12:10  40355 ass2test/index.html 200 OK 0 4
+11/9/2011  14:12:10  40355 ass2test/index.html 200 OK 0 4
+11/9/2011  14:12:10 listening on port 40355
+11/9/2011  14:12:10 listening on port 40355
+11/9/2011  14:12:10 listening on port 40355
+11/9/2011  14:12:10 listening on port 40355
+11/9/2011  14:12:10  40355 ass2test/index.html 200 OK 0 4
+11/9/2011  14:12:10 listening on port 40355
+11/9/2011  14:12:10 listening on port 40355
+11/9/2011  14:12:10 listening on port 40355
+11/9/2011  14:12:10 listening on port 40355
+11/9/2011  14:12:10 listening on port 40355
+11/9/2011  14:12:10  40355 ass2test/index.html 200 OK 0 4
+11/9/2011  14:12:10 listening on port 40355
+11/9/2011  14:12:10  40355 ass2test/index.html 200 OK 0 4
+11/9/2011  14:12:10  40355 ass2test/index.html 200 OK 0 4
+11/9/2011  14:12:10 listening on port 40355
+11/9/2011  14:12:10  40355 ass2test/index.html 200 OK 0 4
+11/9/2011  14:12:10 listening on port 40355
+11/9/2011  14:12:10  40355 ass2test/index.html 200 OK 0 4
+11/9/2011  14:12:10 listening on port 40355
+11/9/2011  14:12:10 listening on port 40355
+11/9/2011  14:12:10 listening on port 40355
+11/9/2011  14:12:10  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 0 32
+11/9/2011  14:12:10 listening on port 40355
+11/9/2011  14:12:10 listening on port 40355
+11/9/2011  14:12:10 listening on port 40355
+11/9/2011  14:12:10 listening on port 40355
+11/9/2011  14:12:10  40355 ass2test/index.html 200 OK 0 4
+11/9/2011  14:12:10  40355 ass2test/index.html 200 OK 0 4
+11/9/2011  14:12:10  40355 ass2test/index.html 200 OK 0 4
+11/9/2011  14:12:10 listening on port 40355
+11/9/2011  14:12:10 listening on port 40355
+11/9/2011  14:12:10 listening on port 40355
+11/9/2011  14:12:10 listening on port 40355
+11/9/2011  14:12:10 listening on port 40355
+11/9/2011  14:12:10  40355 ass2test/index.html 200 OK 0 4
+11/9/2011  14:12:10  40355 ass2test/index.html 200 OK 0 4
+11/9/2011  14:12:10 listening on port 40355
+11/9/2011  14:12:10 listening on port 40355
+11/9/2011  14:12:10 listening on port 40355
+11/9/2011  14:12:10  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 0 4
+11/9/2011  14:12:10 listening on port 40355
+11/9/2011  14:12:17 listening on port 40355
+11/9/2011  14:12:17  40355 ass2test/index.html 200 OK 0 4
+11/9/2011  14:12:17 listening on port 40355
+11/9/2011  14:12:17 listening on port 40355
+11/9/2011  14:12:17  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 0 4
+11/9/2011  14:12:17 listening on port 40355
+11/9/2011  14:12:17 listening on port 40355
+11/9/2011  14:12:17  40355 ass2test/index.html 200 OK 0 4
+11/9/2011  14:12:17 listening on port 40355
+11/9/2011  14:12:17 listening on port 40355
+11/9/2011  14:12:17  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 0 4
+11/9/2011  14:12:17 listening on port 40355
+11/9/2011  14:12:18 listening on port 40355
+11/9/2011  14:12:18  40355 ass2test/index.html 200 OK 0 4
+11/9/2011  14:12:18 listening on port 40355
+11/9/2011  14:12:18 listening on port 40355
+11/9/2011  14:12:18  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 0 4
+11/9/2011  14:12:18 listening on port 40355
+11/9/2011  14:12:18 listening on port 40355
+11/9/2011  14:12:18  40355 ass2test/index.html 200 OK 0 4
+11/9/2011  14:12:18 listening on port 40355
+11/9/2011  14:12:18 listening on port 40355
+11/9/2011  14:12:18  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 0 4
+11/9/2011  14:12:18 listening on port 40355
+11/9/2011  14:12:19 listening on port 40355
+11/9/2011  14:12:19  40355 ass2test/index.html 200 OK 0 4
+11/9/2011  14:12:19 listening on port 40355
+11/9/2011  14:12:19 listening on port 40355
+11/9/2011  14:12:19  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 0 4
+11/9/2011  14:12:19 listening on port 40355
+11/9/2011  14:12:19 listening on port 40355
+11/9/2011  14:12:19  40355 ass2test/index.html 200 OK 0 4
+11/9/2011  14:12:19 listening on port 40355
+11/9/2011  14:12:19 listening on port 40355
+11/9/2011  14:12:19  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 0 4
+11/9/2011  14:12:19 listening on port 40355
+11/9/2011  14:12:19 listening on port 40355
+11/9/2011  14:12:19  40355 ass2test/index.html 200 OK 0 4
+11/9/2011  14:12:19 listening on port 40355
+11/9/2011  14:12:19 listening on port 40355
+11/9/2011  14:12:19  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 0 4
+11/9/2011  14:12:19 listening on port 40355
+11/9/2011  14:12:19 listening on port 40355
+11/9/2011  14:12:19  40355 ass2test/index.html 200 OK 0 4
+11/9/2011  14:12:19 listening on port 40355
+11/9/2011  14:12:19 listening on port 40355
+11/9/2011  14:12:19  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 0 4
+11/9/2011  14:12:19 listening on port 40355
+11/9/2011  14:12:19 listening on port 40355
+11/9/2011  14:12:19  40355 ass2test/index.html 200 OK 0 4
+11/9/2011  14:12:19 listening on port 40355
+11/9/2011  14:12:19 listening on port 40355
+11/9/2011  14:12:19  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 0 4
+11/9/2011  14:12:19 listening on port 40355
+11/9/2011  14:12:20 listening on port 40355
+11/9/2011  14:12:20  40355 ass2test/index.html 200 OK 0 4
+11/9/2011  14:12:20 listening on port 40355
+11/9/2011  14:12:20 listening on port 40355
+11/9/2011  14:12:20  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 0 4
+11/9/2011  14:12:20 listening on port 40355
+11/9/2011  14:12:20 listening on port 40355
+11/9/2011  14:12:20  40355 ass2test/index.html 200 OK 0 4
+11/9/2011  14:12:20 listening on port 40355
+11/9/2011  14:12:20 listening on port 40355
+11/9/2011  14:12:20  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 0 4
+11/9/2011  14:12:20 listening on port 40355
+11/9/2011  14:12:20 listening on port 40355
+11/9/2011  14:12:20  40355 ass2test/index.html 200 OK 0 4
+11/9/2011  14:12:20 listening on port 40355
+11/9/2011  14:12:20 listening on port 40355
+11/9/2011  14:12:20  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 0 4
+11/9/2011  14:12:20 listening on port 40355
+11/9/2011  14:12:20 listening on port 40355
+11/9/2011  14:12:20  40355 ass2test/index.html 200 OK 0 4
+11/9/2011  14:12:20 listening on port 40355
+11/9/2011  14:12:20 listening on port 40355
+11/9/2011  14:12:20  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 0 4
+11/9/2011  14:12:20 listening on port 40355
+11/9/2011  14:12:21 listening on port 40355
+11/9/2011  14:12:21  40355 ass2test/index.html 200 OK 0 4
+11/9/2011  14:12:21 listening on port 40355
+11/9/2011  14:12:21 listening on port 40355
+11/9/2011  14:12:21  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 0 4
+11/9/2011  14:12:21 listening on port 40355
+11/9/2011  14:12:21 listening on port 40355
+11/9/2011  14:12:21  40355 ass2test/index.html 200 OK 0 4
+11/9/2011  14:12:21 listening on port 40355
+11/9/2011  14:12:21 listening on port 40355
+11/9/2011  14:12:21  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 0 4
+11/9/2011  14:12:21 listening on port 40355
+11/9/2011  14:12:21 listening on port 40355
+11/9/2011  14:12:21  40355 ass2test/index.html 200 OK 0 4
+11/9/2011  14:12:21 listening on port 40355
+11/9/2011  14:12:21 listening on port 40355
+11/9/2011  14:12:21  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 0 4
+11/9/2011  14:12:21 listening on port 40355
+11/9/2011  14:12:21 listening on port 40355
+11/9/2011  14:12:21  40355 ass2test/index.html 200 OK 0 4
+11/9/2011  14:12:21 listening on port 40355
+11/9/2011  14:12:21 listening on port 40355
+11/9/2011  14:12:21  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 0 4
+11/9/2011  14:12:21 listening on port 40355
+11/9/2011  14:12:21 listening on port 40355
+11/9/2011  14:12:21  40355 ass2test/index.html 200 OK 0 4
+11/9/2011  14:12:21 listening on port 40355
+11/9/2011  14:12:21 listening on port 40355
+11/9/2011  14:12:21  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 0 4
+11/9/2011  14:12:21 listening on port 40355
+11/9/2011  14:12:22 listening on port 40355
+11/9/2011  14:12:22  40355 ass2test/index.html 200 OK 0 4
+11/9/2011  14:12:22 listening on port 40355
+11/9/2011  14:12:22 listening on port 40355
+11/9/2011  14:12:22  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 0 4
+11/9/2011  14:12:22 listening on port 40355
+11/9/2011  14:12:22 listening on port 40355
+11/9/2011  14:12:22  40355 ass2test/index.html 200 OK 0 4
+11/9/2011  14:12:22 listening on port 40355
+11/9/2011  14:12:22 listening on port 40355
+11/9/2011  14:12:22  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 0 4
+11/9/2011  14:12:22 listening on port 40355
+11/9/2011  14:12:22 listening on port 40355
+11/9/2011  14:12:22  40355 ass2test/index.html 200 OK 0 4
+11/9/2011  14:12:22 listening on port 40355
+11/9/2011  14:12:22 listening on port 40355
+11/9/2011  14:12:22  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 0 4
+11/9/2011  14:12:22 listening on port 40355
+11/9/2011  14:12:22 listening on port 40355
+11/9/2011  14:12:22  40355 ass2test/index.html 200 OK 0 4
+11/9/2011  14:12:22 listening on port 40355
+11/9/2011  14:12:22 listening on port 40355
+11/9/2011  14:12:22  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 0 4
+11/9/2011  14:12:22 listening on port 40355
+11/9/2011  14:12:22 listening on port 40355
+11/9/2011  14:12:22  40355 ass2test/index.html 200 OK 0 4
+11/9/2011  14:12:22 listening on port 40355
+11/9/2011  14:12:22 listening on port 40355
+11/9/2011  14:12:22  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 0 4
+11/9/2011  14:12:22 listening on port 40355
+11/9/2011  14:12:23 listening on port 40355
+11/9/2011  14:12:23  40355 ass2test/index.html 200 OK 0 4
+11/9/2011  14:12:23 listening on port 40355
+11/9/2011  14:12:23 listening on port 40355
+11/9/2011  14:12:23  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 0 4
+11/9/2011  14:12:23 listening on port 40355
+11/9/2011  14:14: 8 listening on port 40355
+11/9/2011  14:14:13  40355 ass2test/index.html 200 OK 0 4
+11/9/2011  14:14:13 listening on port 40355
+11/9/2011  14:14:31 listening on port 40355
+11/9/2011  14:14:33 listening on port 40355
+11/9/2011  14:14:34 listening on port 40355
+11/9/2011  14:14:36  40355 ass2test/index.html 200 OK 0 4
+11/9/2011  14:14:36 listening on port 40355
+11/9/2011  14:14:38  40355 ass2test/index.html 200 OK 0 4
+11/9/2011  14:14:38 listening on port 40355
+11/9/2011  14:14:39  40355 ass2test/index.html 200 OK 0 4
+11/9/2011  14:14:39 listening on port 40355
+11/9/2011  14:14:53 listening on port 40355
+11/9/2011  14:14:58  40355 ass2test/index.html 200 OK 0 4
+11/9/2011  14:14:58 listening on port 40355
+11/9/2011  14:15: 0 listening on port 40355
+11/9/2011  14:15: 5  40355 ass2test/index.html 200 OK 0 4
+11/9/2011  14:15: 5 listening on port 40355
+11/9/2011  14:15:12 listening on port 40355
+11/9/2011  14:15:57 server-single 1.2.2
+11/9/2011  14:15:57 initialization complete
+11/9/2011  14:15:57 initialization complete
+11/9/2011  14:15:57 listening on port 40355
+11/9/2011  14:15:58 listening on port 40355
+11/9/2011  14:15:58  40355 ass2test/  0 0
+11/9/2011  14:15:58 listening on port 40355
+11/9/2011  14:15:59 listening on port 40355
+11/9/2011  14:15:59  40355 ass2test/  0 4
+11/9/2011  14:15:59 listening on port 40355
+11/9/2011  14:16: 0 listening on port 40355
+11/9/2011  14:16: 0  40355 ass2test/  0 4
+11/9/2011  14:16: 0 listening on port 40355
+11/9/2011  14:16: 1 listening on port 40355
+11/9/2011  14:16: 1  40355 ass2test/  0 4
+11/9/2011  14:16: 1 listening on port 40355
+11/9/2011  14:16: 3 listening on port 40355
+11/9/2011  14:16: 3 listening on port 40355
+11/9/2011  14:16: 4 listening on port 40355
+11/9/2011  14:16: 5 listening on port 40355
+11/9/2011  14:16: 5  40355 ass2test/  0 4
+11/9/2011  14:16: 5 listening on port 40355
+11/9/2011  14:16: 6 listening on port 40355
+11/9/2011  14:16: 6  40355 ass2test/  0 4
+11/9/2011  14:16: 6 listening on port 40355
+11/9/2011  14:16: 6 listening on port 40355
+11/9/2011  14:16: 6  40355 ass2test/  0 4
+11/9/2011  14:16: 6 listening on port 40355
+11/9/2011  14:16: 7 listening on port 40355
+11/9/2011  14:16: 7  40355 ass2test/  0 4
+11/9/2011  14:16: 7 listening on port 40355
+11/9/2011  14:16: 7 listening on port 40355
+11/9/2011  14:16: 7  40355 ass2test/  0 4
+11/9/2011  14:16: 7 listening on port 40355
+11/9/2011  14:16: 8  40355 ass2test/index.html 200 OK 0 4
+11/9/2011  14:16: 8 listening on port 40355
+11/9/2011  14:16: 8  40355 ass2test/index.html 200 OK 0 4
+11/9/2011  14:16: 8 listening on port 40355
+11/9/2011  14:16: 9  40355 ass2test/index.html 200 OK 0 4
+11/9/2011  14:16: 9 listening on port 40355
+11/9/2011  14:16:14 listening on port 40355
+11/9/2011  14:16:14  40355 ass2test/  0 4
+11/9/2011  14:16:14 listening on port 40355
+11/9/2011  14:16:15 listening on port 40355
+11/9/2011  14:16:15  40355 ass2test/  0 4
+11/9/2011  14:16:15 listening on port 40355
+11/9/2011  14:16:16 listening on port 40355
+11/9/2011  14:16:16  40355 ass2test/  0 4
+11/9/2011  14:16:16 listening on port 40355
+11/9/2011  14:16:51 listening on port 40355
+11/9/2011  14:16:51 shutdown request
+11/9/2011  14:16:51 listening on port 40355
+11/9/2011  14:16:51 all connection closed
+11/9/2011  14:16:51 terminating server
+11/9/2011  14:16:54 server-single 1.2.2
+11/9/2011  14:16:54 initialization complete
+11/9/2011  14:16:54 initialization complete
+11/9/2011  14:16:54 listening on port 40355
+11/9/2011  14:16:56 listening on port 40355
+11/9/2011  14:17: 1 listening on port 40355
+11/9/2011  14:17: 1  40355 ass2test/config/kill -15 868 404 Not Found 0 2
+11/9/2011  14:17: 1 listening on port 40355
+11/9/2011  14:17: 1  40355 ass2test/index.html 200 OK 0 0
+11/9/2011  14:17: 1 listening on port 40355
+11/9/2011  14:17:16 listening on port 40355
+11/9/2011  14:17:16  40355 ass2test/  0 4
+11/9/2011  14:17:16 listening on port 40355
+11/9/2011  14:17:18 listening on port 40355
+11/9/2011  14:17:18  40355 ass2test/  0 4
+11/9/2011  14:17:18 listening on port 40355
+11/9/2011  14:17:19 listening on port 40355
+11/9/2011  14:17:19  40355 ass2test/  0 4
+11/9/2011  14:17:19 listening on port 40355
+11/9/2011  14:17:21 listening on port 40355
+11/9/2011  14:17:22 listening on port 40355
+11/9/2011  14:17:22 shutdown request
+11/9/2011  14:17:22 listening on port 40355
+11/9/2011  14:17:26  40355 ass2test/index.html 200 OK 0 4
+11/9/2011  14:17:26 all connection closed
+11/9/2011  14:17:26 terminating server
+11/9/2011  14:21:17 server-single 1.2.2
+11/9/2011  14:21:17 initialization complete
+11/9/2011  14:21:17 initialization complete
+11/9/2011  14:21:17 listening on port 40355
+11/9/2011  14:21:22 listening on port 40355
+11/9/2011  14:21:22  40355 ass2test/index.html 200 OK 0 0
+11/9/2011  14:21:22 listening on port 40355
+11/9/2011  14:21:22  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 1651719712 0
+11/9/2011  14:21:24 listening on port 40355
+11/9/2011  14:21:24  40355 ass2test/index.html 200 OK 1745494816 0
+11/9/2011  14:21:24 listening on port 40355
+11/9/2011  14:21:24  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 1127427696 0
+11/9/2011  14:21:24 listening on port 40355
+11/9/2011  14:21:24  40355 ass2test/index.html 200 OK 1728053248 0
+11/9/2011  14:21:24 listening on port 40355
+11/9/2011  14:21:24  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 1651719712 0
+11/9/2011  14:21:24 listening on port 40355
+11/9/2011  14:21:24  40355 ass2test/index.html 200 OK 1745494816 0
+11/9/2011  14:21:24 listening on port 40355
+11/9/2011  14:21:24  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 1127427696 0
+11/9/2011  14:21:25 listening on port 40355
+11/9/2011  14:21:25  40355 ass2test/index.html 200 OK 1728053248 0
+11/9/2011  14:21:25 listening on port 40355
+11/9/2011  14:21:25  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 1651719712 0
+11/9/2011  14:21:25 listening on port 40355
+11/9/2011  14:21:25  40355 ass2test/index.html 200 OK 1745494816 0
+11/9/2011  14:21:25 listening on port 40355
+11/9/2011  14:21:25  40355 ass2test/index.html 200 OK 1127427696 0
+11/9/2011  14:21:25 listening on port 40355
+11/9/2011  14:21:25  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 1728053248 32
+11/9/2011  14:21:25 listening on port 40355
+11/9/2011  14:21:25  40355 ass2test/index.html 200 OK 1651719712 0
+11/9/2011  14:21:25 listening on port 40355
+11/9/2011  14:21:25  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 1745494816 0
+11/9/2011  14:21:25 listening on port 40355
+11/9/2011  14:21:25  40355 ass2test/index.html 200 OK 218777711 0
+11/9/2011  14:21:25 listening on port 40355
+11/9/2011  14:21:25  40355 ass2test/index.html 200 OK 1634495585 0
+11/9/2011  14:21:25 listening on port 40355
+11/9/2011  14:21:25  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 1651719712 0
+11/9/2011  14:21:25 listening on port 40355
+11/9/2011  14:21:25  40355 ass2test/index.html 200 OK 1745494816 0
+11/9/2011  14:21:25 listening on port 40355
+11/9/2011  14:21:25  40355 ass2test/index.html 200 OK 1127427696 0
+11/9/2011  14:21:25 listening on port 40355
+11/9/2011  14:21:25  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 1728080993 32
+11/9/2011  14:21:25 listening on port 40355
+11/9/2011  14:21:25  40355 ass2test/index.html 200 OK 1651719712 0
+11/9/2011  14:21:25 listening on port 40355
+11/9/2011  14:21:25  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 1745494816 0
+11/9/2011  14:21:26 listening on port 40355
+11/9/2011  14:21:26  40355 ass2test/index.html 200 OK 218777711 0
+11/9/2011  14:21:26 listening on port 40355
+11/9/2011  14:21:26  40355 ass2test/index.html 200 OK 1634495585 0
+11/9/2011  14:21:26 listening on port 40355
+11/9/2011  14:21:26  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 1651719712 32
+11/9/2011  14:21:26 listening on port 40355
+11/9/2011  14:21:26  40355 ass2test/index.html 200 OK 1745494816 0
+11/9/2011  14:21:26 listening on port 40355
+11/9/2011  14:21:26  40355 ass2test/index.html 200 OK 1127427696 0
+11/9/2011  14:21:26 listening on port 40355
+11/9/2011  14:21:26  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 1728080993 32
+11/9/2011  14:21:26 listening on port 40355
+11/9/2011  14:21:26  40355 ass2test/index.html 200 OK 1651719712 0
+11/9/2011  14:21:26 listening on port 40355
+11/9/2011  14:21:26  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 1745494816 0
+11/9/2011  14:21:26 listening on port 40355
+11/9/2011  14:21:26  40355 ass2test/index.html 200 OK 218777711 0
+11/9/2011  14:21:26 listening on port 40355
+11/9/2011  14:21:26  40355 ass2test/index.html 200 OK 1634495585 0
+11/9/2011  14:21:26 listening on port 40355
+11/9/2011  14:21:26  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 1651719712 0
+11/9/2011  14:21:26 listening on port 40355
+11/9/2011  14:21:26  40355 ass2test/index.html 200 OK 1745494816 0
+11/9/2011  14:21:26 listening on port 40355
+11/9/2011  14:21:26 listening on port 40355
+11/9/2011  14:21:26  40355 ass2test/index.html 200 OK 1634495585 0
+11/9/2011  14:21:26 listening on port 40355
+11/9/2011  14:21:26  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 540160048 0
+11/9/2011  14:21:26 listening on port 40355
+11/9/2011  14:21:26  40355 ass2test/index.html 200 OK 0 0
+11/9/2011  14:21:26 listening on port 40355
+11/9/2011  14:21:26 listening on port 40355
+11/9/2011  14:21:26  40355 ass2test/index.html 200 OK 1634495585 0
+11/9/2011  14:21:26 listening on port 40355
+11/9/2011  14:21:26  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 0 32
+11/9/2011  14:21:26 listening on port 40355
+11/9/2011  14:21:26  40355 ass2test/index.html 200 OK 1634495585 0
+11/9/2011  14:21:26  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 1127427696 32
+11/9/2011  14:21:26 listening on port 40355
+11/9/2011  14:21:26  40355 ass2test/index.html 200 OK 1728080993 0
+11/9/2011  14:21:26 listening on port 40355
+11/9/2011  14:21:26  40355 ass2test/index.html 200 OK 1634495585 0
+11/9/2011  14:21:26 listening on port 40355
+11/9/2011  14:21:26  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 1728080993 0
+11/9/2011  14:21:27 listening on port 40355
+11/9/2011  14:21:27  40355 ass2test/index.html 200 OK 1634495585 0
+11/9/2011  14:21:27 listening on port 40355
+11/9/2011  14:21:27  40355 ass2test/index.html 200 OK 1728080993 0
+11/9/2011  14:21:27  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 0 32
+11/9/2011  14:21:27 listening on port 40355
+11/9/2011  14:21:27  40355 ass2test/index.html 200 OK 1634495585 0
+11/9/2011  14:21:27 listening on port 40355
+11/9/2011  14:21:27 listening on port 40355
+11/9/2011  14:21:27  40355 ass2test/index.html 200 OK 1634495585 0
+11/9/2011  14:21:27 listening on port 40355
+11/9/2011  14:21:27  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 1634495585 0
+11/9/2011  14:21:27 listening on port 40355
+11/9/2011  14:21:27  40355 ass2test/index.html 200 OK 0 0
+11/9/2011  14:21:27 listening on port 40355
+11/9/2011  14:21:27  40355 ass2test/index.html 200 OK 0 0
+11/9/2011  14:21:27 listening on port 40355
+11/9/2011  14:21:27  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 1634495585 0
+11/9/2011  14:21:27 listening on port 40355
+11/9/2011  14:21:27  40355 ass2test/index.html 200 OK 1634495585 0
+11/9/2011  14:21:27 listening on port 40355
+11/9/2011  14:21:27  40355 ass2test/index.html 200 OK 0 0
+11/9/2011  14:21:27 listening on port 40355
+11/9/2011  14:21:27  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 0 0
+11/9/2011  14:21:27  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 218777711 32
+11/9/2011  14:21:27 listening on port 40355
+11/9/2011  14:21:27  40355 ass2test/index.html 200 OK 218777711 0
+11/9/2011  14:21:27 listening on port 40355
+11/9/2011  14:21:27  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 543652457 32
+11/9/2011  14:21:27 listening on port 40355
+11/9/2011  14:21:27  40355 ass2test/index.html 200 OK 512 0
+11/9/2011  14:21:27 listening on port 40355
+11/9/2011  14:21:27 listening on port 40355
+11/9/2011  14:21:27  40355 ass2test/index.html 200 OK 1634495585 0
+11/9/2011  14:21:27  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 1127427696 32
+11/9/2011  14:21:27 listening on port 40355
+11/9/2011  14:21:27  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 1728071791 32
+11/9/2011  14:21:27 listening on port 40355
+11/9/2011  14:21:27  40355 ass2test/index.html 200 OK 543652457 0
+11/9/2011  14:21:27 listening on port 40355
+11/9/2011  14:21:27  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 512 32
+11/9/2011  14:21:27 listening on port 40355
+11/9/2011  14:21:27  40355 ass2test/index.html 200 OK 218777711 0
+11/9/2011  14:21:27 listening on port 40355
+11/9/2011  14:21:27  40355 ass2test/index.html 200 OK 1634495585 0
+11/9/2011  14:21:27 listening on port 40355
+11/9/2011  14:21:27  40355 ass2test/index.html 200 OK 543652457 0
+11/9/2011  14:21:27 listening on port 40355
+11/9/2011  14:21:27  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 512 32
+11/9/2011  14:21:27 listening on port 40355
+11/9/2011  14:21:27  40355 ass2test/index.html 200 OK 218777711 0
+11/9/2011  14:21:27 listening on port 40355
+11/9/2011  14:21:27  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 1634495585 0
+11/9/2011  14:21:27 listening on port 40355
+11/9/2011  14:21:27  40355 ass2test/index.html 200 OK 543652457 0
+11/9/2011  14:21:27 listening on port 40355
+11/9/2011  14:21:27  40355 ass2test/index.html 200 OK 512 0
+11/9/2011  14:21:27 listening on port 40355
+11/9/2011  14:21:27  40355 ass2test/index.html 200 OK 218777711 0
+11/9/2011  14:21:27 listening on port 40355
+11/9/2011  14:21:27  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 1634495585 32
+11/9/2011  14:21:27 listening on port 40355
+11/9/2011  14:21:28  40355 ass2test/index.html 200 OK 543652457 0
+11/9/2011  14:21:28 listening on port 40355
+11/9/2011  14:21:28 listening on port 40355
+11/9/2011  14:21:28  40355 ass2test/index.html 200 OK 1634495585 0
+11/9/2011  14:21:28 listening on port 40355
+11/9/2011  14:21:28  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 0 0
+11/9/2011  14:21:28 listening on port 40355
+11/9/2011  14:21:28  40355 ass2test/index.html 200 OK 218777711 0
+11/9/2011  14:21:28 listening on port 40355
+11/9/2011  14:21:28  40355 ass2test/index.html 200 OK 543652457 0
+11/9/2011  14:21:28 listening on port 40355
+11/9/2011  14:21:28  40355 ass2test/index.html 200 OK 1634495585 0
+11/9/2011  14:21:28 listening on port 40355
+11/9/2011  14:21:28  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 0 32
+11/9/2011  14:21:28 listening on port 40355
+11/9/2011  14:21:28  40355 ass2test/index.html 200 OK 218777711 0
+11/9/2011  14:21:28 listening on port 40355
+11/9/2011  14:21:28  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 543652457 0
+11/9/2011  14:21:28 listening on port 40355
+11/9/2011  14:21:28  40355 ass2test/index.html 200 OK 1634495585 0
+11/9/2011  14:21:28 listening on port 40355
+11/9/2011  14:21:28  40355 ass2test/index.html 200 OK 0 0
+11/9/2011  14:21:28 listening on port 40355
+11/9/2011  14:21:28  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 512 32
+11/9/2011  14:21:28 listening on port 40355
+11/9/2011  14:21:28  40355 ass2test/index.html 200 OK 218777711 0
+11/9/2011  14:21:28 listening on port 40355
+11/9/2011  14:21:28  40355 ass2test/index.html 200 OK 543652457 0
+11/9/2011  14:21:28 listening on port 40355
+11/9/2011  14:21:28  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 512 0
+11/9/2011  14:21:28 listening on port 40355
+11/9/2011  14:21:28  40355 ass2test/index.html 200 OK 1634625397 0
+11/9/2011  14:21:28 listening on port 40355
+11/9/2011  14:21:28  40355 ass2test/index.html 200 OK 1899835438 0
+11/9/2011  14:21:28 listening on port 40355
+11/9/2011  14:21:28  40355 ass2test/index.html 200 OK 218777711 0
+11/9/2011  14:21:28 listening on port 40355
+11/9/2011  14:21:28  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 543652457 32
+11/9/2011  14:21:28 listening on port 40355
+11/9/2011  14:21:28  40355 ass2test/index.html 200 OK 543652457 0
+11/9/2011  14:21:28 listening on port 40355
+11/9/2011  14:21:28 listening on port 40355
+11/9/2011  14:21:28  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 218777711 32
+11/9/2011  14:21:28  40355 ass2test/index.html 200 OK 1634495585 0
+11/9/2011  14:21:28 listening on port 40355
+11/9/2011  14:21:28  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 842019120 32
+11/9/2011  14:21:28 listening on port 40355
+11/9/2011  14:21:28  40355 ass2test/index.html 200 OK 1634495585 0
+11/9/2011  14:21:28 listening on port 40355
+11/9/2011  14:21:28  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 1127427696 32
+11/9/2011  14:21:28 listening on port 40355
+11/9/2011  14:21:28  40355 ass2test/index.html 200 OK 1634495585 0
+11/9/2011  14:21:28 listening on port 40355
+11/9/2011  14:21:28 listening on port 40355
+11/9/2011  14:21:28  40355 ass2test/index.html 200 OK 1634495585 0
+11/9/2011  14:21:28 listening on port 40355
+11/9/2011  14:21:28  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 1634495585 32
+11/9/2011  14:21:28 listening on port 40355
+11/9/2011  14:21:28  40355 ass2test/index.html 200 OK 1634495585 0
+11/9/2011  14:21:28 listening on port 40355
+11/9/2011  14:21:28  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 1634495585 0
+11/9/2011  14:21:29 listening on port 40355
+11/9/2011  14:21:29  40355 ass2test/index.html 200 OK 1634495585 0
+11/9/2011  14:21:29 listening on port 40355
+11/9/2011  14:21:29  40355 ass2test/index.html 200 OK 1634495585 0
+11/9/2011  14:21:29 listening on port 40355
+11/9/2011  14:21:29  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 1634495585 0
+11/9/2011  14:21:29  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 1127427696 32
+11/9/2011  14:21:29 listening on port 40355
+11/9/2011  14:21:29  40355 ass2test/index.html 200 OK 218777711 0
+11/9/2011  14:21:29 listening on port 40355
+11/9/2011  14:21:29  40355 ass2test/index.html 200 OK 1634495585 0
+11/9/2011  14:21:29 listening on port 40355
+11/9/2011  14:21:29  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 218777711 0
+11/9/2011  14:21:29  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 1127427696 32
+11/9/2011  14:21:29 listening on port 40355
+11/9/2011  14:21:29  40355 ass2test/index.html 200 OK 1634495585 0
+11/9/2011  14:21:29 listening on port 40355
+11/9/2011  14:21:29  40355 ass2test/index.html 200 OK 1634495585 0
+11/9/2011  14:21:29 listening on port 40355
+11/9/2011  14:21:29  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 218777711 0
+11/9/2011  14:21:29 listening on port 40355
+11/9/2011  14:21:29  40355 ass2test/index.html 200 OK 541543764 0
+11/9/2011  14:21:29 listening on port 40355
+11/9/2011  14:21:29  40355 ass2test/index.html 200 OK 0 0
+11/9/2011  14:21:29 listening on port 40355
+11/9/2011  14:21:29 listening on port 40355
+11/9/2011  14:21:29  40355 ass2test/index.html 200 OK 1634495585 0
+11/9/2011  14:21:29 listening on port 40355
+11/9/2011  14:21:29  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 1318300233 32
+11/9/2011  14:21:29 listening on port 40355
+11/9/2011  14:21:29  40355 ass2test/index.html 200 OK 792014384 0
+11/9/2011  14:21:29 listening on port 40355
+11/9/2011  14:21:29 listening on port 40355
+11/9/2011  14:21:29  40355 ass2test/index.html 200 OK 1634495585 0
+11/9/2011  14:21:29 listening on port 40355
+11/9/2011  14:21:29 listening on port 40355
+11/9/2011  14:21:29  40355 ass2test/index.html 200 OK 1634495585 0
+11/9/2011  14:21:29 listening on port 40355
+11/9/2011  14:21:29 listening on port 40355
+11/9/2011  14:21:29  40355 ass2test/index.html 200 OK 1634495585 0
+11/9/2011  14:21:29 listening on port 40355
+11/9/2011  14:21:29  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 540160048 0
+11/9/2011  14:21:29 listening on port 40355
+11/9/2011  14:21:29  40355 ass2test/index.html 200 OK 0 0
+11/9/2011  14:21:29 listening on port 40355
+11/9/2011  14:21:29  40355 ass2test/index.html 200 OK 0 0
+11/9/2011  14:21:29 listening on port 40355
+11/9/2011  14:21:29 listening on port 40355
+11/9/2011  14:21:29  40355 ass2test/index.html 200 OK 1634495585 0
+11/9/2011  14:21:29 listening on port 40355
+11/9/2011  14:21:29 listening on port 40355
+11/9/2011  14:21:29  40355 ass2test/index.html 200 OK 1634495585 0
+11/9/2011  14:21:29 listening on port 40355
+11/9/2011  14:21:29  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 0 32
+11/9/2011  14:21:29 listening on port 40355
+11/9/2011  14:21:29  40355 ass2test/index.html 200 OK 1634495585 0
+11/9/2011  14:21:29 listening on port 40355
+11/9/2011  14:21:29 listening on port 40355
+11/9/2011  14:21:29  40355 ass2test/index.html 200 OK 1634495585 0
+11/9/2011  14:21:29 listening on port 40355
+11/9/2011  14:21:29  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 1869833485 0
+11/9/2011  14:21:29 listening on port 40355
+11/9/2011  14:21:29  40355 ass2test/index.html 200 OK 1634495585 0
+11/9/2011  14:21:30  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 0 32
+11/9/2011  14:21:30  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 778269486 32
+11/9/2011  14:21:30 listening on port 40355
+11/9/2011  14:21:30 listening on port 40355
+11/9/2011  14:21:30  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 540160048 32
+11/9/2011  14:21:30  40355 ass2test/index.html 200 OK 1318300233 0
+11/9/2011  14:21:30 listening on port 40355
+11/9/2011  14:21:30  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 540160048 32
+11/9/2011  14:21:30 listening on port 40355
+11/9/2011  14:21:30  40355 ass2test/index.html 200 OK 1852138356 0
+11/9/2011  14:21:30 listening on port 40355
+11/9/2011  14:21:30  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 541676367 32
+11/9/2011  14:21:30 listening on port 40355
+11/9/2011  14:21:30  40355 ass2test/index.html 200 OK 1634495585 0
+11/9/2011  14:21:30 listening on port 40355
+11/9/2011  14:21:30 listening on port 40355
+11/9/2011  14:21:30  40355 ass2test/index.html 200 OK 1634495585 0
+11/9/2011  14:21:30 listening on port 40355
+11/9/2011  14:21:30  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 91226119 0
+11/9/2011  14:21:30  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 1634495585 32
+11/9/2011  14:21:30  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 1634495585 32
+11/9/2011  14:21:30  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 1986359866 32
+11/9/2011  14:21:30 listening on port 40355
+11/9/2011  14:21:30  40355 ass2test/index.html 200 OK 1634495585 0
+11/9/2011  14:21:30 listening on port 40355
+11/9/2011  14:21:30  40355 ass2test/index.html 200 OK 1127427696 0
+11/9/2011  14:21:30 listening on port 40355
+11/9/2011  14:21:30  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 218777711 32
+11/9/2011  14:21:30 listening on port 40355
+11/9/2011  14:21:30  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 0 32
+11/9/2011  14:21:30  40355 ass2test/index.html 200 OK 1127427696 0
+11/9/2011  14:21:30 listening on port 40355
+11/9/2011  14:21:30  40355 ass2test/index.html 200 OK 218777711 0
+11/9/2011  14:21:30 listening on port 40355
+11/9/2011  14:21:30  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 1127427696 0
+11/9/2011  14:21:30 listening on port 40355
+11/9/2011  14:21:30  40355 ass2test/index.html 200 OK 172057443 0
+11/9/2011  14:21:30 listening on port 40355
+11/9/2011  14:21:30  40355 ass2test/index.html 200 OK 1127427696 0
+11/9/2011  14:21:30 listening on port 40355
+11/9/2011  14:21:30  40355 ass2test/index.html 200 OK 218777711 0
+11/9/2011  14:21:30 listening on port 40355
+11/9/2011  14:21:30  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 1634625397 32
+11/9/2011  14:21:30 listening on port 40355
+11/9/2011  14:21:30  40355 ass2test/index.html 200 OK 778269486 0
+11/9/2011  14:21:30 listening on port 40355
+11/9/2011  14:21:30  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 1127427696 32
+11/9/2011  14:21:30 listening on port 40355
+11/9/2011  14:21:30  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 543652457 32
+11/9/2011  14:21:30  40355 ass2test/index.html 200 OK 218777711 0
+11/9/2011  14:21:30 listening on port 40355
+11/9/2011  14:21:30  40355 ass2test/index.html 200 OK 512 0
+11/9/2011  14:21:30 listening on port 40355
+11/9/2011  14:21:30  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 1127427696 32
+11/9/2011  14:21:30 listening on port 40355
+11/9/2011  14:21:30  40355 ass2test/index.html 200 OK 173172070 0
+11/9/2011  14:21:30 listening on port 40355
+11/9/2011  14:21:30 listening on port 40355
+11/9/2011  14:21:30  40355 ass2test/index.html 200 OK 1634495585 0
+11/9/2011  14:21:30 listening on port 40355
+11/9/2011  14:21:30  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 1685401185 32
+11/9/2011  14:21:30 listening on port 40355
+11/9/2011  14:21:30  40355 ass2test/index.html 200 OK 943075397 0
+11/9/2011  14:21:30 listening on port 40355
+11/9/2011  14:21:30 listening on port 40355
+11/9/2011  14:21:30  40355 ass2test/index.html 200 OK 1634495585 0
+11/9/2011  14:21:30 listening on port 40355
+11/9/2011  14:21:30  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 1634495585 0
+11/9/2011  14:21:30 listening on port 40355
+11/9/2011  14:21:30  40355 ass2test/index.html 200 OK 1634495585 0
+11/9/2011  14:21:30 listening on port 40355
+11/9/2011  14:21:30  40355 ass2test/index.html 200 OK 1634495585 0
+11/9/2011  14:21:30 listening on port 40355
+11/9/2011  14:21:30  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 1634495585 32
+11/9/2011  14:21:30 listening on port 40355
+11/9/2011  14:21:30  40355 ass2test/index.html 200 OK 1634495585 0
+11/9/2011  14:21:30 listening on port 40355
+11/9/2011  14:21:30  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 1634495585 32
+11/9/2011  14:21:30 listening on port 40355
+11/9/2011  14:21:30  40355 ass2test/index.html 200 OK 1634495585 0
+11/9/2011  14:21:30  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 1127427696 32
+11/9/2011  14:21:30 listening on port 40355
+11/9/2011  14:21:30 listening on port 40355
+11/9/2011  14:21:30  40355 ass2test/index.html 200 OK 1634495585 0
+11/9/2011  14:21:31 listening on port 40355
+11/9/2011  14:21:31  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 218777711 32
+11/9/2011  14:21:31 listening on port 40355
+11/9/2011  14:21:31  40355 ass2test/index.html 200 OK 543652457 0
+11/9/2011  14:21:31 listening on port 40355
+11/9/2011  14:21:31 listening on port 40355
+11/9/2011  14:21:31  40355 ass2test/index.html 200 OK 1634495585 0
+11/9/2011  14:21:31 listening on port 40355
+11/9/2011  14:21:31 listening on port 40355
+11/9/2011  14:21:31  40355 ass2test/index.html 200 OK 1634495585 0
+11/9/2011  14:21:31 listening on port 40355
+11/9/2011  14:21:31  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 1213486160 32
+11/9/2011  14:21:31  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK -14603004 0
+11/9/2011  14:21:31  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK -14603004 32
+11/9/2011  14:21:31 listening on port 40355
+11/9/2011  14:21:31  40355 ass2test/index.html 200 OK 1728080993 0
+11/9/2011  14:21:31 listening on port 40355
+11/9/2011  14:21:31  40355 ass2test/index.html 200 OK 1634495585 0
+11/9/2011  14:21:31 listening on port 40355
+11/9/2011  14:21:31  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 218777711 32
+11/9/2011  14:21:31 listening on port 40355
+11/9/2011  14:21:31  40355 ass2test/index.html 200 OK 543652457 0
+11/9/2011  14:21:31 listening on port 40355
+11/9/2011  14:21:31  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 1127427696 32
+11/9/2011  14:21:31 listening on port 40355
+11/9/2011  14:21:31  40355 ass2test/index.html 200 OK 218777711 0
+11/9/2011  14:21:31 listening on port 40355
+11/9/2011  14:21:31  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 543652457 0
+11/9/2011  14:21:31  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 172057443 32
+11/9/2011  14:21:31  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 512 32
+11/9/2011  14:21:31  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 540160048 32
+11/9/2011  14:21:31 listening on port 40355
+11/9/2011  14:21:31  40355 ass2test/index.html 200 OK 541812069 0
+11/9/2011  14:21:31 listening on port 40355
+11/9/2011  14:21:31  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 1634495585 32
+11/9/2011  14:21:31 listening on port 40355
+11/9/2011  14:21:31  40355 ass2test/index.html 200 OK 1635018042 0
+11/9/2011  14:21:31 listening on port 40355
+11/9/2011  14:21:31 listening on port 40355
+11/9/2011  14:21:31  40355 ass2test/index.html 200 OK 1634495585 0
+11/9/2011  14:21:31 listening on port 40355
+11/9/2011  14:21:31 listening on port 40355
+11/9/2011  14:21:31  40355 ass2test/index.html 200 OK 1634495585 0
+11/9/2011  14:21:31 listening on port 40355
+11/9/2011  14:21:31  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 1853107540 0
+11/9/2011  14:21:31 listening on port 40355
+11/9/2011  14:21:31  40355 ass2test/index.html 200 OK 1852138356 0
+11/9/2011  14:21:31 listening on port 40355
+11/9/2011  14:21:31  40355 ass2test/index.html 200 OK 1853107540 0
+11/9/2011  14:21:31 listening on port 40355
+11/9/2011  14:21:31  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 541543764 32
+11/9/2011  14:21:31 listening on port 40355
+11/9/2011  14:21:31  40355 ass2test/index.html 200 OK 1853107540 0
+11/9/2011  14:21:31 listening on port 40355
+11/9/2011  14:21:31  40355 ass2test/index.html 200 OK 1852138356 0
+11/9/2011  14:21:31 listening on port 40355
+11/9/2011  14:21:31  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 1853107540 0
+11/9/2011  14:21:31 listening on port 40355
+11/9/2011  14:21:31  40355 ass2test/index.html 200 OK 1634495585 0
+11/9/2011  14:21:31 listening on port 40355
+11/9/2011  14:21:31  40355 ass2test/index.html 200 OK 1853107540 0
+11/9/2011  14:21:31 listening on port 40355
+11/9/2011  14:21:31  40355 ass2test/index.html 200 OK 1852138356 0
+11/9/2011  14:21:31 listening on port 40355
+11/9/2011  14:21:31 listening on port 40355
+11/9/2011  14:21:31  40355 ass2test/index.html 200 OK 1634495585 0
+11/9/2011  14:21:31 listening on port 40355
+11/9/2011  14:21:31  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 708538685 0
+11/9/2011  14:21:31 listening on port 40355
+11/9/2011  14:21:31  40355 ass2test/index.html 200 OK 218777711 0
+11/9/2011  14:21:31  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 172057443 32
+11/9/2011  14:21:31 listening on port 40355
+11/9/2011  14:21:31  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 0 32
+11/9/2011  14:21:32  40355 ass2test/index.html 200 OK 218777711 0
+11/9/2011  14:21:32 listening on port 40355
+11/9/2011  14:21:32  40355 ass2test/index.html 200 OK 1634495585 0
+11/9/2011  14:21:32 listening on port 40355
+11/9/2011  14:21:32  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 1635018042 32
+11/9/2011  14:21:32 listening on port 40355
+11/9/2011  14:21:32  40355 ass2test/index.html 200 OK 218777711 0
+11/9/2011  14:21:32 listening on port 40355
+11/9/2011  14:21:32 listening on port 40355
+11/9/2011  14:21:32  40355 ass2test/index.html 200 OK 1634495585 0
+11/9/2011  14:21:32 listening on port 40355
+11/9/2011  14:21:32 listening on port 40355
+11/9/2011  14:21:32  40355 ass2test/index.html 200 OK 1634495585 0
+11/9/2011  14:21:32 listening on port 40355
+11/9/2011  14:21:32 listening on port 40355
+11/9/2011  14:21:32  40355 ass2test/index.html 200 OK 1634495585 0
+11/9/2011  14:21:32 listening on port 40355
+11/9/2011  14:21:32 listening on port 40355
+11/9/2011  14:21:32  40355 ass2test/index.html 200 OK 1634495585 0
+11/9/2011  14:21:32 listening on port 40355
+11/9/2011  14:21:32  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 975202420 32
+11/9/2011  14:21:32 listening on port 40355
+11/9/2011  14:21:32  40355 ass2test/index.html 200 OK 1899835438 0
+11/9/2011  14:21:32 listening on port 40355
+11/9/2011  14:21:32 listening on port 40355
+11/9/2011  14:21:32  40355 ass2test/index.html 200 OK 1634495585 0
+11/9/2011  14:21:32 listening on port 40355
+11/9/2011  14:21:32  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 1853107540 32
+11/9/2011  14:21:32 listening on port 40355
+11/9/2011  14:21:32  40355 ass2test/index.html 200 OK 1634495585 0
+11/9/2011  14:21:32 listening on port 40355
+11/9/2011  14:21:32  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 1634495585 32
+11/9/2011  14:21:32 listening on port 40355
+11/9/2011  14:21:32  40355 ass2test/index.html 200 OK 1634495585 0
+11/9/2011  14:21:32 listening on port 40355
+11/9/2011  14:21:32  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 1634495585 32
+11/9/2011  14:21:32 listening on port 40355
+11/9/2011  14:21:32  40355 ass2test/index.html 200 OK 1634495585 0
+11/9/2011  14:21:32 listening on port 40355
+11/9/2011  14:21:32 listening on port 40355
+11/9/2011  14:21:32  40355 ass2test/index.html 200 OK 1634495585 0
+11/9/2011  14:21:32  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 1634495585 32
+11/9/2011  14:21:32 listening on port 40355
+11/9/2011  14:21:32  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 1634495585 0
+11/9/2011  14:21:32 listening on port 40355
+11/9/2011  14:21:32  40355 ass2test/index.html 200 OK 1634495585 0
+11/9/2011  14:21:32 listening on port 40355
+11/9/2011  14:21:32  40355 ass2test/index.html 200 OK 1634495585 0
+11/9/2011  14:21:32 listening on port 40355
+11/9/2011  14:21:32  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 1634495585 32
+11/9/2011  14:21:32 listening on port 40355
+11/9/2011  14:21:32  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 1634495585 32
+11/9/2011  14:21:32  40355 ass2test/index.html 200 OK 1634495585 0
+11/9/2011  14:21:32 listening on port 40355
+11/9/2011  14:21:32  40355 ass2test/index.html 200 OK 1634495585 0
+11/9/2011  14:21:32 listening on port 40355
+11/9/2011  14:21:32  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 172057443 32
+11/9/2011  14:21:32  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 1634495585 32
+11/9/2011  14:21:32 listening on port 40355
+11/9/2011  14:21:32  40355 ass2test/index.html 200 OK 218777711 0
+11/9/2011  14:21:32  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 778269486 32
+11/9/2011  14:21:32  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 778269486 32
+11/9/2011  14:21:32 listening on port 40355
+11/9/2011  14:21:32  40355 ass2test/index.html 200 OK -14603004 0
+11/9/2011  14:21:32 listening on port 40355
+11/9/2011  14:21:32  40355 ass2test/index.html 200 OK 1634625397 0
+11/9/2011  14:21:32  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 1127427696 32
+11/9/2011  14:21:32 listening on port 40355
+11/9/2011  14:21:32  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 1634495585 32
+11/9/2011  14:21:32 listening on port 40355
+11/9/2011  14:21:32  40355 ass2test/index.html 200 OK 1127427696 0
+11/9/2011  14:21:32  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 975202170 32
+11/9/2011  14:21:32 listening on port 40355
+11/9/2011  14:21:32 listening on port 40355
+11/9/2011  14:21:32  40355 ass2test/index.html 200 OK 1634495585 0
+11/9/2011  14:21:32 listening on port 40355
+11/9/2011  14:21:32  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 1668492914 131
+11/9/2011  14:21:32 listening on port 40355
+11/9/2011  14:21:32  40355 ass2test/index.html 200 OK 172519283 0
+11/9/2011  14:21:32 listening on port 40355
+11/9/2011  14:21:32  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 541676367 32
+11/9/2011  14:21:32 listening on port 40355
+11/9/2011  14:21:32  40355 ass2test/index.html 200 OK 1634495585 0
+11/9/2011  14:21:32 listening on port 40355
+11/9/2011  14:21:32  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 1668492914 32
+11/9/2011  14:21:32 listening on port 40355
+11/9/2011  14:21:32  40355 ass2test/index.html 200 OK 172519283 0
+11/9/2011  14:21:32 listening on port 40355
+11/9/2011  14:21:32  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 541676367 32
+11/9/2011  14:21:32 listening on port 40355
+11/9/2011  14:21:32  40355 ass2test/index.html 200 OK 1634495585 0
+11/9/2011  14:21:32 listening on port 40355
+11/9/2011  14:21:32  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 1668492914 32
+11/9/2011  14:21:32 listening on port 40355
+11/9/2011  14:21:32  40355 ass2test/index.html 200 OK 172519283 0
+11/9/2011  14:21:32 listening on port 40355
+11/9/2011  14:21:32  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 541676367 32
+11/9/2011  14:21:32 listening on port 40355
+11/9/2011  14:21:32  40355 ass2test/index.html 200 OK 1634495585 0
+11/9/2011  14:21:32 listening on port 40355
+11/9/2011  14:21:32 listening on port 40355
+11/9/2011  14:21:32  40355 ass2test/index.html 200 OK 1634495585 0
+11/9/2011  14:21:32 listening on port 40355
+11/9/2011  14:21:32  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 540160048 32
+11/9/2011  14:21:32 listening on port 40355
+11/9/2011  14:21:32  40355 ass2test/index.html 200 OK 1634495585 0
+11/9/2011  14:21:32 listening on port 40355
+11/9/2011  14:21:32  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK -14603004 32
+11/9/2011  14:21:32 listening on port 40355
+11/9/2011  14:21:33  40355 ass2test/index.html 200 OK 541543764 0
+11/9/2011  14:21:33 listening on port 40355
+11/9/2011  14:21:33  40355 ass2test/index.html 200 OK 540160048 0
+11/9/2011  14:21:33 listening on port 40355
+11/9/2011  14:21:33  40355 ass2test/index.html 200 OK 1634495585 0
+11/9/2011  14:21:33  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 1769366797 32
+11/9/2011  14:21:33 listening on port 40355
+11/9/2011  14:21:33  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 1127427696 32
+11/9/2011  14:21:33 listening on port 40355
+11/9/2011  14:21:33  40355 ass2test/index.html 200 OK 1127427696 0
+11/9/2011  14:21:33 listening on port 40355
+11/9/2011  14:21:33 listening on port 40355
+11/9/2011  14:21:33  40355 ass2test/index.html 200 OK 1634495585 0
+11/9/2011  14:21:33 listening on port 40355
+11/9/2011  14:21:33  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 1668492914 32
+11/9/2011  14:21:33 listening on port 40355
+11/9/2011  14:21:33  40355 ass2test/index.html 200 OK 1668492914 0
+11/9/2011  14:21:33 listening on port 40355
+11/9/2011  14:21:33  40355 ass2test/index.html 200 OK 1668492914 0
+11/9/2011  14:21:33 listening on port 40355
+11/9/2011  14:21:33  40355 ass2test/index.html 200 OK 1728080993 0
+11/9/2011  14:21:33 listening on port 40355
+11/9/2011  14:21:33  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 1668492914 32
+11/9/2011  14:21:33  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 1668492914 0
+11/9/2011  14:21:33 listening on port 40355
+11/9/2011  14:21:33  40355 ass2test/index.html 200 OK 1668492914 0
+11/9/2011  14:21:33 listening on port 40355
+11/9/2011  14:21:33  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 1634495585 32
+11/9/2011  14:21:33 listening on port 40355
+11/9/2011  14:21:33  40355 ass2test/index.html 200 OK 1668492914 0
+11/9/2011  14:21:33 listening on port 40355
+11/9/2011  14:21:33 listening on port 40355
+11/9/2011  14:21:33  40355 ass2test/index.html 200 OK 1634495585 0
+11/9/2011  14:21:33 listening on port 40355
+11/9/2011  14:21:33  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 1668492914 32
+11/9/2011  14:21:33 listening on port 40355
+11/9/2011  14:21:33  40355 ass2test/index.html 200 OK 172519283 0
+11/9/2011  14:21:33 listening on port 40355
+11/9/2011  14:21:33 listening on port 40355
+11/9/2011  14:21:33  40355 ass2test/index.html 200 OK 1634495585 0
+11/9/2011  14:21:33 listening on port 40355
+11/9/2011  14:21:33  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 1127427696 32
+11/9/2011  14:21:33  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 540160049 32
+11/9/2011  14:21:33 listening on port 40355
+11/9/2011  14:21:33  40355 ass2test/index.html 200 OK 1127427696 0
+11/9/2011  14:21:33 listening on port 40355
+11/9/2011  14:21:33  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 1969381188 32
+11/9/2011  14:21:33 listening on port 40355
+11/9/2011  14:21:33  40355 ass2test/index.html 200 OK 1127427696 0
+11/9/2011  14:21:33 listening on port 40355
+11/9/2011  14:21:33  40355 ass2test/index.html 200 OK 1969381188 0
+11/9/2011  14:21:33 listening on port 40355
+11/9/2011  14:21:33  40355 ass2test/index.html 200 OK 1127427696 0
+11/9/2011  14:21:33 listening on port 40355
+11/9/2011  14:21:33 listening on port 40355
+11/9/2011  14:21:33  40355 ass2test/index.html 200 OK 540160049 0
+11/9/2011  14:21:33  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 1969381188 32
+11/9/2011  14:21:33 listening on port 40355
+11/9/2011  14:21:33 listening on port 40355
+11/9/2011  14:21:33  40355 ass2test/index.html 200 OK 1634495585 0
+11/9/2011  14:21:33 listening on port 40355
+11/9/2011  14:21:33  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 540160049 0
+11/9/2011  14:21:33  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 172519283 32
+11/9/2011  14:21:33  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 541676367 32
+11/9/2011  14:21:33 listening on port 40355
+11/9/2011  14:21:33  40355 ass2test/index.html 200 OK 1634495585 0
+11/9/2011  14:21:33 listening on port 40355
+11/9/2011  14:21:34  40355 ass2test/index.html 200 OK 1127427696 0
+11/9/2011  14:21:34 listening on port 40355
+11/9/2011  14:21:34 listening on port 40355
+11/9/2011  14:21:34  40355 ass2test/index.html 200 OK 1127427696 0
+11/9/2011  14:21:34  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 172057443 32
+11/9/2011  14:21:34 listening on port 40355
+11/9/2011  14:21:34  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 1449746746 32
+11/9/2011  14:21:34 listening on port 40355
+11/9/2011  14:21:34  40355 ass2test/index.html 200 OK 1127427696 0
+11/9/2011  14:21:34 listening on port 40355
+11/9/2011  14:21:34  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 1127427696 32
+11/9/2011  14:21:34 listening on port 40355
+11/9/2011  14:21:34  40355 ass2test/index.html 200 OK 172057443 0
+11/9/2011  14:21:34 listening on port 40355
+11/9/2011  14:21:34  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 1449746746 32
+11/9/2011  14:21:34 listening on port 40355
+11/9/2011  14:21:34  40355 ass2test/index.html 200 OK 218777711 0
+11/9/2011  14:21:34 listening on port 40355
+11/9/2011  14:21:34 listening on port 40355
+11/9/2011  14:21:34  40355 ass2test/index.html 200 OK 997276976 0
+11/9/2011  14:21:34 listening on port 40355
+11/9/2011  14:21:34  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 1634495585 0
+11/9/2011  14:21:34 listening on port 40355
+11/9/2011  14:21:34  40355 ass2test/index.html 200 OK 541676367 0
+11/9/2011  14:21:34  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 1127427696 32
+11/9/2011  14:21:34 listening on port 40355
+11/9/2011  14:21:34  40355 ass2test/index.html 200 OK 1969381188 0
+11/9/2011  14:21:34 listening on port 40355
+11/9/2011  14:21:34  40355 ass2test/index.html 200 OK 1127427696 0
+11/9/2011  14:21:34 listening on port 40355
+11/9/2011  14:21:34 listening on port 40355
+11/9/2011  14:21:34  40355 ass2test/index.html 200 OK 1634495585 0
+11/9/2011  14:21:34 listening on port 40355
+11/9/2011  14:21:34  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 540160048 32
+11/9/2011  14:21:34 listening on port 40355
+11/9/2011  14:21:34  40355 ass2test/index.html 200 OK -14603004 0
+11/9/2011  14:21:34 listening on port 40355
+11/9/2011  14:21:34 listening on port 40355
+11/9/2011  14:21:34  40355 ass2test/index.html 200 OK 1634495585 0
+11/9/2011  14:21:34 listening on port 40355
+11/9/2011  14:21:34 listening on port 40355
+11/9/2011  14:21:34  40355 ass2test/index.html 200 OK 1634495585 0
+11/9/2011  14:21:34 listening on port 40355
+11/9/2011  14:21:34  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 540160048 32
+11/9/2011  14:21:34 listening on port 40355
+11/9/2011  14:21:34  40355 ass2test/index.html 200 OK 1717975091 0
+11/9/2011  14:21:34 listening on port 40355
+11/9/2011  14:21:34 listening on port 40355
+11/9/2011  14:21:34  40355 ass2test/index.html 200 OK 1634495585 0
+11/9/2011  14:21:34  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 1634495585 32
+11/9/2011  14:21:34 listening on port 40355
+11/9/2011  14:21:34  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 172057443 32
+11/9/2011  14:21:34 listening on port 40355
+11/9/2011  14:21:34  40355 ass2test/index.html 200 OK 1634495585 0
+11/9/2011  14:21:34 listening on port 40355
+11/9/2011  14:21:34 listening on port 40355
+11/9/2011  14:21:34  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 1127427696 32
+11/9/2011  14:21:34  40355 ass2test/index.html 200 OK 1634495585 0
+11/9/2011  14:21:34 listening on port 40355
+11/9/2011  14:21:34  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 0 0
+11/9/2011  14:21:34 listening on port 40355
+11/9/2011  14:21:34  40355 ass2test/index.html 200 OK 1634495585 0
+11/9/2011  14:21:34 listening on port 40355
+11/9/2011  14:21:34 listening on port 40355
+11/9/2011  14:21:34  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 1634495585 32
+11/9/2011  14:21:34  40355 ass2test/index.html 200 OK 1634495585 0
+11/9/2011  14:21:34 listening on port 40355
+11/9/2011  14:21:34  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 1127427696 32
+11/9/2011  14:21:34 listening on port 40355
+11/9/2011  14:21:34  40355 ass2test/index.html 200 OK 1634495585 0
+11/9/2011  14:21:34 listening on port 40355
+11/9/2011  14:21:34 listening on port 40355
+11/9/2011  14:21:34  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 1127427696 32
+11/9/2011  14:21:34  40355 ass2test/index.html 200 OK 1634495585 0
+11/9/2011  14:21:34 listening on port 40355
+11/9/2011  14:21:34  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 1449746746 32
+11/9/2011  14:21:34  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 1634495585 32
+11/9/2011  14:21:34 listening on port 40355
+11/9/2011  14:21:34  40355 ass2test/index.html 200 OK 1899835438 0
+11/9/2011  14:21:34 listening on port 40355
+11/9/2011  14:21:34 listening on port 40355
+11/9/2011  14:21:34  40355 ass2test/index.html 200 OK 1634495585 0
+11/9/2011  14:21:34 listening on port 40355
+11/9/2011  14:21:34  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 1853107540 32
+11/9/2011  14:21:34 listening on port 40355
+11/9/2011  14:21:34  40355 ass2test/index.html 200 OK 1728080993 0
+11/9/2011  14:21:34 listening on port 40355
+11/9/2011  14:21:34  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 1634495585 0
+11/9/2011  14:21:34 listening on port 40355
+11/9/2011  14:21:34  40355 ass2test/index.html 200 OK 1728080993 0
+11/9/2011  14:21:35 listening on port 40355
+11/9/2011  14:21:35 listening on port 40355
+11/9/2011  14:21:35  40355 ass2test/index.html 200 OK 1634495585 0
+11/9/2011  14:21:35  40355 ass2test/index.html 200 OK 1634495585 0
+11/9/2011  14:21:35 listening on port 40355
+11/9/2011  14:21:35  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 218777711 32
+11/9/2011  14:21:35 listening on port 40355
+11/9/2011  14:21:35  40355 ass2test/index.html 200 OK 1634495585 0
+11/9/2011  14:21:35 listening on port 40355
+11/9/2011  14:21:35  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 1127427696 0
+11/9/2011  14:21:35  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 1127427696 32
+11/9/2011  14:21:35  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 1127427696 32
+11/9/2011  14:21:35 listening on port 40355
+11/9/2011  14:21:35  40355 ass2test/index.html 200 OK 1634495585 0
+11/9/2011  14:21:35 listening on port 40355
+11/9/2011  14:21:35 listening on port 40355
+11/9/2011  14:21:35  40355 ass2test/index.html 200 OK 1634495585 0
+11/9/2011  14:21:35  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 1127427696 32
+11/9/2011  14:21:35  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 1668492914 32
+11/9/2011  14:21:35 listening on port 40355
+11/9/2011  14:21:35  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 1634495585 32
+11/9/2011  14:21:35  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 543652457 32
+11/9/2011  14:21:35 listening on port 40355
+11/9/2011  14:21:35  40355 ass2test/index.html 200 OK 28 0
+11/9/2011  14:21:35 listening on port 40355
+11/9/2011  14:21:35 listening on port 40355
+11/9/2011  14:21:35  40355 ass2test/index.html 200 OK 1634495585 0
+11/9/2011  14:21:35 listening on port 40355
+11/9/2011  14:21:35  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 1634956082 32
+11/9/2011  14:21:35 listening on port 40355
+11/9/2011  14:21:35  40355 ass2test/index.html 200 OK 1634495585 0
+11/9/2011  14:21:35 listening on port 40355
+11/9/2011  14:21:35  40355 ass2test/index.html 200 OK 1634956082 0
+11/9/2011  14:21:35 listening on port 40355
+11/9/2011  14:21:35  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 1634495585 0
+11/9/2011  14:21:35 listening on port 40355
+11/9/2011  14:21:35  40355 ass2test/index.html 200 OK 1634956082 0
+11/9/2011  14:21:35 listening on port 40355
+11/9/2011  14:21:35 listening on port 40355
+11/9/2011  14:21:35  40355 ass2test/index.html 200 OK 1634495585 0
+11/9/2011  14:21:35 listening on port 40355
+11/9/2011  14:21:35  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 540160049 32
+11/9/2011  14:21:35 listening on port 40355
+11/9/2011  14:21:35  40355 ass2test/index.html 200 OK 1849389373 0
+11/9/2011  14:21:35 listening on port 40355
+11/9/2011  14:21:35  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 806160963 32
+11/9/2011  14:21:35 listening on port 40355
+11/9/2011  14:21:35  40355 ass2test/index.html 200 OK 806160963 0
+11/9/2011  14:21:35 listening on port 40355
+11/9/2011  14:21:35  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 1634495585 32
+11/9/2011  14:21:35 listening on port 40355
+11/9/2011  14:21:35  40355 ass2test/index.html 200 OK 540160049 0
+11/9/2011  14:21:35 listening on port 40355
+11/9/2011  14:21:35  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 1634495585 32
+11/9/2011  14:21:35 listening on port 40355
+11/9/2011  14:21:35  40355 ass2test/index.html 200 OK 1634495585 0
+11/9/2011  14:21:35 listening on port 40355
+11/9/2011  14:21:35  40355 ass2test/index.html 200 OK 1634495585 0
+11/9/2011  14:21:35 listening on port 40355
+11/9/2011  14:21:35  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 1634495585 32
+11/9/2011  14:21:35 listening on port 40355
+11/9/2011  14:21:35  40355 ass2test/index.html 200 OK 218777711 0
+11/9/2011  14:21:35 listening on port 40355
+11/9/2011  14:21:35 listening on port 40355
+11/9/2011  14:21:35  40355 ass2test/index.html 200 OK 1634495585 0
+11/9/2011  14:21:35 listening on port 40355
+11/9/2011  14:21:35  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 543652457 32
+11/9/2011  14:21:35 listening on port 40355
+11/9/2011  14:21:35  40355 ass2test/index.html 200 OK 512 0
+11/9/2011  14:21:35 listening on port 40355
+11/9/2011  14:21:36  40355 ass2test/index.html 200 OK 1685401185 0
+11/9/2011  14:21:36 listening on port 40355
+11/9/2011  14:21:36  40355 ass2test/index.html 200 OK 1634495585 0
+11/9/2011  14:21:36 listening on port 40355
+11/9/2011  14:21:36  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 1634495585 32
+11/9/2011  14:21:36  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 543652457 0
+11/9/2011  14:21:36 listening on port 40355
+11/9/2011  14:21:36  40355 ass2test/index.html 200 OK 512 0
+11/9/2011  14:21:36 listening on port 40355
+11/9/2011  14:21:36  40355 ass2test/index.html 200 OK 1634956082 0
+11/9/2011  14:21:36 listening on port 40355
+11/9/2011  14:21:36  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 218777711 32
+11/9/2011  14:21:36 listening on port 40355
+11/9/2011  14:21:36  40355 ass2test/index.html 200 OK 543652457 0
+11/9/2011  14:21:36 listening on port 40355
+11/9/2011  14:21:36  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 1127427696 0
+11/9/2011  14:21:36 listening on port 40355
+11/9/2011  14:21:36  40355 ass2test/index.html 200 OK 1634495585 0
+11/9/2011  14:21:36  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 1849389373 32
+11/9/2011  14:21:36  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 1634495585 32
+11/9/2011  14:21:36 listening on port 40355
+11/9/2011  14:21:36  40355 ass2test/index.html 200 OK 1634495585 0
+11/9/2011  14:21:36 listening on port 40355
+11/9/2011  14:21:36  40355 ass2test/index.html 200 OK 1986359866 0
+11/9/2011  14:21:36 listening on port 40355
+11/9/2011  14:21:36  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 218777711 32
+11/9/2011  14:21:36 listening on port 40355
+11/9/2011  14:21:36  40355 ass2test/index.html 200 OK 1634495585 0
+11/9/2011  14:21:36 listening on port 40355
+11/9/2011  14:21:36  40355 ass2test/index.html 200 OK 1634495585 0
+11/9/2011  14:21:36 listening on port 40355
+11/9/2011  14:21:36  40355 ass2test/index.html 200 OK 1986359866 0
+11/9/2011  14:21:36 listening on port 40355
+11/9/2011  14:21:36  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 218777711 32
+11/9/2011  14:21:36 listening on port 40355
+11/9/2011  14:21:36  40355 ass2test/index.html 200 OK 1634495585 0
+11/9/2011  14:21:36 listening on port 40355
+11/9/2011  14:21:36  40355 ass2test/index.html 200 OK 1634495585 0
+11/9/2011  14:21:36 listening on port 40355
+11/9/2011  14:21:36  40355 ass2test/index.html 200 OK 1986359866 0
+11/9/2011  14:21:36 listening on port 40355
+11/9/2011  14:21:36 listening on port 40355
+11/9/2011  14:21:36  40355 ass2test/index.html 200 OK 1634495585 0
+11/9/2011  14:21:36 listening on port 40355
+11/9/2011  14:21:36 listening on port 40355
+11/9/2011  14:21:36  40355 ass2test/index.html 200 OK 1634495585 0
+11/9/2011  14:21:36 listening on port 40355
+11/9/2011  14:21:36 listening on port 40355
+11/9/2011  14:21:36  40355 ass2test/index.html 200 OK 1634495585 0
+11/9/2011  14:21:36 listening on port 40355
+11/9/2011  14:21:36  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 512 0
+11/9/2011  14:21:36 listening on port 40355
+11/9/2011  14:21:36  40355 ass2test/index.html 200 OK 1634495585 0
+11/9/2011  14:21:36 listening on port 40355
+11/9/2011  14:21:36  40355 ass2test/index.html 200 OK 512 0
+11/9/2011  14:21:36 listening on port 40355
+11/9/2011  14:21:36 listening on port 40355
+11/9/2011  14:21:36  40355 ass2test/index.html 200 OK 1634495585 0
+11/9/2011  14:21:36  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 1634495585 32
+11/9/2011  14:21:36 listening on port 40355
+11/9/2011  14:21:36  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 512 0
+11/9/2011  14:21:36 listening on port 40355
+11/9/2011  14:21:36  40355 ass2test/index.html 200 OK 1634495585 0
+11/9/2011  14:21:37  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 218777711 32
+11/9/2011  14:21:37  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 540160048 32
+11/9/2011  14:21:37  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 540160048 32
+11/9/2011  14:21:37 listening on port 40355
+11/9/2011  14:21:37  40355 ass2test/index.html 200 OK 512 0
+11/9/2011  14:21:37 listening on port 40355
+11/9/2011  14:21:37  40355 ass2test/index.html 200 OK 1634495585 0
+11/9/2011  14:21:37 listening on port 40355
+11/9/2011  14:21:37 listening on port 40355
+11/9/2011  14:21:37  40355 ass2test/index.html 200 OK 1634495585 0
+11/9/2011  14:21:37 listening on port 40355
+11/9/2011  14:21:37  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 1634495585 32
+11/9/2011  14:21:37 listening on port 40355
+11/9/2011  14:21:37  40355 ass2test/index.html 200 OK 1634495585 0
+11/9/2011  14:21:37 listening on port 40355
+11/9/2011  14:21:37  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 1634495585 0
+11/9/2011  14:21:37 listening on port 40355
+11/9/2011  14:21:37  40355 ass2test/index.html 200 OK 1634495585 0
+11/9/2011  14:21:37 listening on port 40355
+11/9/2011  14:21:37  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 1634495585 32
+11/9/2011  14:21:37 listening on port 40355
+11/9/2011  14:21:37  40355 ass2test/index.html 200 OK 1634495585 0
+11/9/2011  14:21:37 listening on port 40355
+11/9/2011  14:21:37 listening on port 40355
+11/9/2011  14:21:37  40355 ass2test/index.html 200 OK 1634495585 0
+11/9/2011  14:21:37 listening on port 40355
+11/9/2011  14:21:37  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 1906 0
+11/9/2011  14:21:37 listening on port 40355
+11/9/2011  14:21:37  40355 ass2test/index.html 200 OK 1634495585 0
+11/9/2011  14:21:37 listening on port 40355
+11/9/2011  14:21:37  40355 ass2test/index.html 200 OK 1906 0
+11/9/2011  14:21:37  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 1634495585 32
+11/9/2011  14:21:37 listening on port 40355
+11/9/2011  14:21:37  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 1986359866 32
+11/9/2011  14:21:37 listening on port 40355
+11/9/2011  14:21:37  40355 ass2test/index.html 200 OK 1127427696 0
+11/9/2011  14:21:37 listening on port 40355
+11/9/2011  14:21:37 listening on port 40355
+11/9/2011  14:21:37  40355 ass2test/index.html 200 OK 1634495585 0
+11/9/2011  14:21:37 listening on port 40355
+11/9/2011  14:21:37 listening on port 40355
+11/9/2011  14:21:37  40355 ass2test/index.html 200 OK 1634495585 0
+11/9/2011  14:21:37 listening on port 40355
+11/9/2011  14:21:37  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 17499721 0
+11/9/2011  14:21:37 listening on port 40355
+11/9/2011  14:21:37  40355 ass2test/index.html 200 OK 1932423789 0
+11/9/2011  14:21:37 listening on port 40355
+11/9/2011  14:21:37  40355 ass2test/index.html 200 OK 1195725856 0
+11/9/2011  14:21:37 listening on port 40355
+11/9/2011  14:21:37 listening on port 40355
+11/9/2011  14:21:37  40355 ass2test/index.html 200 OK 1634495585 0
+11/9/2011  14:21:37 listening on port 40355
+11/9/2011  14:21:37 listening on port 40355
+11/9/2011  14:21:37  40355 ass2test/index.html 200 OK 1634495585 0
+11/9/2011  14:21:37 listening on port 40355
+11/9/2011  14:21:37  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 540160048 32
+11/9/2011  14:21:37 listening on port 40355
+11/9/2011  14:21:37  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 1634495585 32
+11/9/2011  14:21:37  40355 ass2test/index.html 200 OK 1399157366 0
+11/9/2011  14:21:37 listening on port 40355
+11/9/2011  14:21:37  40355 ass2test/index.html 200 OK 1865953336 0
+11/9/2011  14:21:37 listening on port 40355
+11/9/2011  14:21:37  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 1634495585 0
+11/9/2011  14:21:38  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 1127427696 32
+11/9/2011  14:21:38  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 218777711 32
+11/9/2011  14:21:38  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 541543764 32
+11/9/2011  14:21:38 listening on port 40355
+11/9/2011  14:21:38  40355 ass2test/index.html 200 OK 17499721 0
+11/9/2011  14:21:38 listening on port 40355
+11/9/2011  14:21:38 listening on port 40355
+11/9/2011  14:21:38  40355 ass2test/index.html 200 OK 1634495585 0
+11/9/2011  14:21:38  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 1932423789 32
+11/9/2011  14:21:38  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 1702392879 32
+11/9/2011  14:21:38 listening on port 40355
+11/9/2011  14:21:38  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 1702392879 32
+11/9/2011  14:21:38 listening on port 40355
+11/9/2011  14:21:38  40355 ass2test/index.html 200 OK 1127427696 0
+11/9/2011  14:21:38 listening on port 40355
+11/9/2011  14:21:38  40355 ass2test/index.html 200 OK 172057443 0
+11/9/2011  14:21:38 listening on port 40355
+11/9/2011  14:21:38  40355 ass2test/index.html 200 OK 1631199297 0
+11/9/2011  14:21:38 listening on port 40355
+11/9/2011  14:21:38 listening on port 40355
+11/9/2011  14:21:38  40355 ass2test/index.html 200 OK 1634495585 0
+11/9/2011  14:21:38 listening on port 40355
+11/9/2011  14:21:38  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 540160048 0
+11/9/2011  14:21:38 listening on port 40355
+11/9/2011  14:21:38  40355 ass2test/index.html 200 OK 808662325 0
+11/9/2011  14:21:38 listening on port 40355
+11/9/2011  14:21:38  40355 ass2test/index.html 200 OK 1230196525 0
+11/9/2011  14:21:38 listening on port 40355
+11/9/2011  14:21:38  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 1634495585 32
+11/9/2011  14:21:38 listening on port 40355
+11/9/2011  14:21:38  40355 ass2test/index.html 200 OK 540160048 0
+11/9/2011  14:21:38 listening on port 40355
+11/9/2011  14:21:38  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 808662325 32
+11/9/2011  14:21:38 listening on port 40355
+11/9/2011  14:21:38  40355 ass2test/index.html 200 OK 1230196525 0
+11/9/2011  14:21:38 listening on port 40355
+11/9/2011  14:21:38 listening on port 40355
+11/9/2011  14:21:38  40355 ass2test/index.html 200 OK 1634495585 0
+11/9/2011  14:21:38 listening on port 40355
+11/9/2011  14:21:38  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 1748639793 32
+11/9/2011  14:21:38 listening on port 40355
+11/9/2011  14:21:38  40355 ass2test/index.html 200 OK 1634495585 0
+11/9/2011  14:21:38 listening on port 40355
+11/9/2011  14:21:38 listening on port 40355
+11/9/2011  14:21:38  40355 ass2test/index.html 200 OK 1634495585 0
+11/9/2011  14:21:38 listening on port 40355
+11/9/2011  14:21:38  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 541543764 32
+11/9/2011  14:21:38 listening on port 40355
+11/9/2011  14:21:38  40355 ass2test/index.html 200 OK 1634495585 0
+11/9/2011  14:21:38 listening on port 40355
+11/9/2011  14:21:38  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 541543764 32
+11/9/2011  14:21:38 listening on port 40355
+11/9/2011  14:21:38  40355 ass2test/index.html 200 OK 1634495585 0
+11/9/2011  14:21:38  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 218777711 32
+11/9/2011  14:21:38 listening on port 40355
+11/9/2011  14:21:38  40355 ass2test/index.html 200 OK 1127427696 0
+11/9/2011  14:21:38 listening on port 40355
+11/9/2011  14:21:38  40355 ass2test/index.html 200 OK 1634495585 0
+11/9/2011  14:21:38 listening on port 40355
+11/9/2011  14:21:38  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 1127427696 0
+11/9/2011  14:21:39 listening on port 40355
+11/9/2011  14:21:39  40355 ass2test/index.html 200 OK 1634495585 0
+11/9/2011  14:21:39 listening on port 40355
+11/9/2011  14:21:39  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 1127427696 32
+11/9/2011  14:21:39 listening on port 40355
+11/9/2011  14:21:39  40355 ass2test/index.html 200 OK 1634495585 0
+11/9/2011  14:21:39 listening on port 40355
+11/9/2011  14:21:39  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 1634495585 32
+11/9/2011  14:21:39  40355 ass2test/index.html 200 OK 1127427696 0
+11/9/2011  14:21:39 listening on port 40355
+11/9/2011  14:21:39  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 540160048 0
+11/9/2011  14:21:39  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 1748639793 32
+11/9/2011  14:21:39 listening on port 40355
+11/9/2011  14:21:39  40355 ass2test/index.html 200 OK 1634495585 0
+11/9/2011  14:21:39 listening on port 40355
+11/9/2011  14:21:39  40355 ass2test/index.html 200 OK 1127427696 0
+11/9/2011  14:21:39 listening on port 40355
+11/9/2011  14:21:39  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 172057443 32
+11/9/2011  14:21:39 listening on port 40355
+11/9/2011  14:21:39  40355 ass2test/index.html 200 OK 1449746746 0
+11/9/2011  14:21:39 listening on port 40355
+11/9/2011  14:21:39 listening on port 40355
+11/9/2011  14:21:39  40355 ass2test/index.html 200 OK 1634495585 0
+11/9/2011  14:21:39 listening on port 40355
+11/9/2011  14:21:39  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 540160048 32
+11/9/2011  14:21:39 listening on port 40355
+11/9/2011  14:21:39  40355 ass2test/index.html 200 OK 1634495585 0
+11/9/2011  14:21:39 listening on port 40355
+11/9/2011  14:21:39  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 1230196525 0
+11/9/2011  14:21:39 listening on port 40355
+11/9/2011  14:21:39  40355 ass2test/index.html 200 OK 1634495585 0
+11/9/2011  14:21:39 listening on port 40355
+11/9/2011  14:21:39  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 540160048 0
+11/9/2011  14:21:39  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 1127427696 32
+11/9/2011  14:21:41 listening on port 40355
+11/9/2011  14:21:41  40355 ass2test/index.html 200 OK 1728065136 0
+11/9/2011  14:21:41 listening on port 40355
+11/9/2011  14:21:41  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 172057443 0
+11/9/2011  14:22: 1 listening on port 40355
+11/9/2011  14:22: 1 listening on port 40355
+11/9/2011  14:22: 2 listening on port 40355
+11/9/2011  14:22: 2 listening on port 40355
+11/9/2011  14:22: 2 listening on port 40355
+11/9/2011  14:22: 2 listening on port 40355
+11/9/2011  14:22: 2 listening on port 40355
+11/9/2011  14:22: 2 listening on port 40355
+11/9/2011  14:22: 4 listening on port 40355
+11/9/2011  14:22: 6  40355 ass2test/index.html 200 OK 1449746746 0
+11/9/2011  14:22: 7  40355 ass2test/index.html 200 OK 1635018042 0
+11/9/2011  14:22: 7  40355 ass2test/index.html 200 OK 1728065136 0
+11/9/2011  14:22: 7  40355 ass2test/index.html 200 OK 1701981505 0
+11/9/2011  14:22: 7  40355 ass2test/index.html 200 OK 1635018042 0
+11/9/2011  14:22: 7  40355 ass2test/index.html 200 OK 859125005 0
+11/9/2011  14:22: 7  40355 ass2test/index.html 200 OK 1634956082 0
+11/9/2011  14:22: 7  40355 ass2test/index.html 200 OK 544372282 0
+11/9/2011  14:22: 9  40355 ass2test/index.html 200 OK 1932423789 0
+11/9/2011  14:22:16 listening on port 40355
+11/9/2011  14:22:16  40355 ass2test/config/status.hml 404 Not Found 1853107532 2
+11/9/2011  14:22:22 listening on port 40355
+11/9/2011  14:22:22  40355 ass2test/config/status.hml 404 Not Found 1634495585 2
+11/9/2011  14:22:26 listening on port 40355
+11/9/2011  14:22:26  40355 ass2test/config/status.html 404 Not Found 172057443 2
+11/9/2011  14:22:29 listening on port 40355
+11/9/2011  14:22:29  40355 ass2test/index.html 200 OK 1634495585 0
+11/9/2011  14:22:29 listening on port 40355
+11/9/2011  14:22:29  40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 1213486160 0
+11/9/2011  14:22:36 listening on port 40355
+11/9/2011  14:22:36  40355 ass2test/config/status.hml 404 Not Found 1953328128 2
+11/9/2011  14:23: 3 listening on port 40355
+11/9/2011  14:23: 3  40355 ass2test/  172057443 0
+11/9/2011  14:23: 5 listening on port 40355
+11/9/2011  14:23: 5  40355 ass2test/  1634495585 0
+11/9/2011  14:23: 9 listening on port 40355
+11/9/2011  14:23: 9 listening on port 40355
+11/9/2011  14:23: 9 listening on port 40355
+11/9/2011  14:23: 9 listening on port 40355
+11/9/2011  14:23:10 listening on port 40355
+11/9/2011  14:23:10 listening on port 40355
+11/9/2011  14:23:10 listening on port 40355
+11/9/2011  14:23:10 listening on port 40355
+11/9/2011  14:23:10 listening on port 40355
+11/9/2011  14:23:10 listening on port 40355
+11/9/2011  14:23:12 listening on port 40355
+11/9/2011  14:23:12 shutdown request
+11/9/2011  14:23:12  40355 ass2test/ 200 OK 740307249 0
+11/9/2011  14:23:14  40355 ass2test/index.html 200 OK 1414811695 0
+11/9/2011  14:23:14  40355 ass2test/index.html 200 OK 1728053248 0
+11/9/2011  14:23:14  40355 ass2test/index.html 200 OK 1668244585 0
+11/9/2011  14:23:14  40355 ass2test/index.html 200 OK 1668554802 0
+11/9/2011  14:23:15  40355 ass2test/index.html 200 OK 512 0
+11/9/2011  14:23:15  40355 ass2test/index.html 200 OK 1398103880 0
+11/9/2011  14:23:15  40355 ass2test/index.html 200 OK 32 0
+11/9/2011  14:23:15  40355 ass2test/index.html 200 OK 544749622 0
+11/9/2011  14:23:15  40355 ass2test/index.html 200 OK 540228146 0
+11/9/2011  14:23:16  40355 ass2test/index.html 200 OK 485 0
+11/9/2011  14:23:18 all connection closed
+11/9/2011  14:23:18 terminating server
+11/9/2011  14:24:39 server-single 1.2.2
+11/9/2011  14:24:39 initialization complete
+11/9/2011  14:24:39 initialization complete
+11/9/2011  14:24:39 listening on port 40355
+11/9/2011  14:24:41 listening on port 40355
+11/9/2011  14:24:41 listening on port 40355
+11/9/2011  14:24:41 listening on port 40355
+11/9/2011  14:24:41 listening on port 40355
+11/9/2011  14:24:41 listening on port 40355
+11/9/2011  14:24:41 listening on port 40355
+11/9/2011  14:24:42 listening on port 40355
+11/9/2011  14:24:42 listening on port 40355
+11/9/2011  14:24:42 listening on port 40355
+11/9/2011  14:24:42 listening on port 40355
+11/9/2011  14:24:42 listening on port 40355
+11/9/2011  14:24:43 listening on port 40355
+11/9/2011  14:24:43 listening on port 40355
+11/9/2011  14:24:43 listening on port 40355
+11/9/2011  14:24:46  40355 ass2test/index.html 200 OK 0 0
+11/9/2011  14:24:46  40355 ass2test/index.html 200 OK 1852142646 0
+11/9/2011  14:24:46  40355 ass2test/index.html 200 OK 0 0
+11/9/2011  14:24:46  40355 ass2test/index.html 200 OK 0 0
+11/9/2011  14:24:46  40355 ass2test/index.html 200 OK 0 0
+11/9/2011  14:24:47  40355 ass2test/index.html 200 OK 0 0
+11/9/2011  14:24:47  40355 ass2test/index.html 200 OK 0 0
+11/9/2011  14:24:47  40355 ass2test/index.html 200 OK 0 0
+11/9/2011  14:24:47  40355 ass2test/index.html 200 OK 0 0
+11/9/2011  14:24:47  40355 ass2test/index.html 200 OK 0 0
+11/9/2011  14:24:47  40355 ass2test/index.html 200 OK 0 0
+11/9/2011  14:24:48  40355 ass2test/index.html 200 OK 0 0
+11/9/2011  14:24:48  40355 ass2test/index.html 200 OK 0 0
+11/9/2011  14:24:48  40355 ass2test/index.html 200 OK 0 0
+11/9/2011  14:25:11 listening on port 40355
+11/9/2011  14:25:11  40355 ass2test/config/status.html 404 Not Found 0 2
+11/9/2011  14:25:18 listening on port 40355
+11/9/2011  14:25:18  40355 ass2test/  1634495585 0
+11/9/2011  14:25:20 listening on port 40355
+11/9/2011  14:25:20  40355 ass2test/  218777711 0
+11/9/2011  14:25:21 listening on port 40355
+11/9/2011  14:25:21  40355 ass2test/  1330851637 0
+11/9/2011  14:25:23 listening on port 40355
+11/9/2011  14:25:23  40355 ass2test/  1414811695 0
+11/9/2011  14:25:23 listening on port 40355
+11/9/2011  14:25:23  40355 ass2test/  538983471 0
+11/9/2011  14:25:24 listening on port 40355
+11/9/2011  14:25:24  40355 ass2test/  544367985 0
+11/9/2011  14:25:42 listening on port 40355
+11/9/2011  14:25:42 listening on port 40355
+11/9/2011  14:25:42 listening on port 40355
+11/9/2011  14:25:43 listening on port 40355
+11/9/2011  14:25:43 listening on port 40355
+11/9/2011  14:25:43 listening on port 40355
+11/9/2011  14:25:43 listening on port 40355
+11/9/2011  14:25:43 listening on port 40355
+11/9/2011  14:25:44 listening on port 40355
+11/9/2011  14:25:44 listening on port 40355
+11/9/2011  14:25:44 listening on port 40355
+11/9/2011  14:25:44 listening on port 40355
+11/9/2011  14:25:47  40355 ass2test/index.html 200 OK 1330851637 0
+11/9/2011  14:25:47  40355 ass2test/index.html 200 OK 842019121 0
+11/9/2011  14:25:48  40355 ass2test/index.html 200 OK 541543764 0
+11/9/2011  14:25:48  40355 ass2test/index.html 200 OK 1952807028 0
+11/9/2011  14:25:48  40355 ass2test/index.html 200 OK -14603004 0
+11/9/2011  14:25:48  40355 ass2test/index.html 200 OK 1852207872 0
+11/9/2011  14:25:48  40355 ass2test/index.html 200 OK 1906 0
+11/9/2011  14:25:48  40355 ass2test/index.html 200 OK 0 0
+11/9/2011  14:25:49  40355 ass2test/index.html 200 OK 0 0
+11/9/2011  14:25:49  40355 ass2test/index.html 200 OK 0 0
+11/9/2011  14:25:49  40355 ass2test/index.html 200 OK 0 0
+11/9/2011  14:25:49  40355 ass2test/index.html 200 OK 0 0
+11/9/2011  14:25:51 all connection closed
+11/9/2011  14:25:51 terminating server
+11/9/2011  14:28:48 server-single 1.2.2
+11/9/2011  14:28:48 initialization complete
+11/9/2011  14:28:48 initialization complete
+11/9/2011  14:29:14 listening on port 40355
+11/9/2011  14:29:14 131.170.90.4 40355 ass2test/index.html 200 OK 0 0
+11/9/2011  14:29:14 listening on port 40355
+11/9/2011  14:29:14 131.170.90.4 40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 0 11
+11/9/2011  14:29:34 listening on port 40355
+11/9/2011  14:29:34 131.170.90.4 40355 ass2test/index.html 200 OK 0 11
+11/9/2011  14:29:34 listening on port 40355
+11/9/2011  14:29:34 131.170.90.4 40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 0 11
+11/9/2011  14:29:34 listening on port 40355
+11/9/2011  14:29:34 131.170.90.4 40355 ass2test/index.html 200 OK 0 11
+11/9/2011  14:29:34 listening on port 40355
+11/9/2011  14:29:34 131.170.90.4 40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 0 11
+11/9/2011  14:29:34 listening on port 40355
+11/9/2011  14:29:34 131.170.90.4 40355 ass2test/index.html 200 OK 0 11
+11/9/2011  14:29:34 listening on port 40355
+11/9/2011  14:29:34 131.170.90.4 40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 0 11
+11/9/2011  14:29:35 listening on port 40355
+11/9/2011  14:29:35 131.170.90.4 40355 ass2test/index.html 200 OK 0 11
+11/9/2011  14:29:35 listening on port 40355
+11/9/2011  14:29:35 131.170.90.4 40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK -1 134
+11/9/2011  14:29:35 listening on port 40355
+11/9/2011  14:29:35 131.170.90.4 40355 ass2test/index.html 200 OK 0 134
+11/9/2011  14:29:35 listening on port 40355
+11/9/2011  14:29:35 131.170.90.4 40355 ass2test/index.html 200 OK 0 11
+11/9/2011  14:29:35 listening on port 40355
+11/9/2011  14:29:35 131.170.90.4 40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK -1 134
+11/9/2011  14:29:35 listening on port 40355
+11/9/2011  14:29:35 131.170.90.4 40355 ass2test/index.html 200 OK 0 134
+11/9/2011  14:29:35 listening on port 40355
+11/9/2011  14:29:35 131.170.90.4 40355 ass2test/index.html 200 OK 0 134
+11/9/2011  14:29:35 listening on port 40355
+11/9/2011  14:29:35 131.170.90.4 40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK -1 134
+11/9/2011  14:29:35 listening on port 40355
+11/9/2011  14:29:35 131.170.90.4 40355 ass2test/index.html 200 OK 0 134
+11/9/2011  14:29:35 listening on port 40355
+11/9/2011  14:29:35 131.170.90.4 40355 ass2test/index.html 200 OK 0 134
+11/9/2011  14:29:35 listening on port 40355
+11/9/2011  14:29:35 131.170.90.4 40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK -1 134
+11/9/2011  14:29:35 listening on port 40355
+11/9/2011  14:29:35 131.170.90.4 40355 ass2test/index.html 200 OK 0 134
+11/9/2011  14:29:35 listening on port 40355
+11/9/2011  14:29:35 131.170.90.4 40355 ass2test/index.html 200 OK 0 134
+11/9/2011  14:29:35 listening on port 40355
+11/9/2011  14:29:35 131.170.90.4 40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK -1 134
+11/9/2011  14:29:35 listening on port 40355
+11/9/2011  14:29:35 131.170.90.4 40355 ass2test/index.html 200 OK 0 134
+11/9/2011  14:29:35 listening on port 40355
+11/9/2011  14:29:35 131.170.90.4 40355 ass2test/index.html 200 OK 0 134
+11/9/2011  14:29:35 listening on port 40355
+11/9/2011  14:29:35 131.170.90.4 40355 ass2test/index.html 200 OK 0 134
+11/9/2011  14:29:35 listening on port 40355
+11/9/2011  14:29:35 131.170.90.4 40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK -1 134
+11/9/2011  14:29:35 listening on port 40355
+11/9/2011  14:29:35 131.170.90.4 40355 ass2test/index.html 200 OK 0 134
+11/9/2011  14:29:35 listening on port 40355
+11/9/2011  14:29:35 131.170.90.4 40355 ass2test/index.html 200 OK 0 134
+11/9/2011  14:29:35 listening on port 40355
+11/9/2011  14:29:36 131.170.90.4 40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK -1 134
+11/9/2011  14:29:36 listening on port 40355
+11/9/2011  14:29:36 131.170.90.4 40355 ass2test/index.html 200 OK 0 134
+11/9/2011  14:29:36 listening on port 40355
+11/9/2011  14:29:36 131.170.90.4 40355 ass2test/index.html 200 OK 0 134
+11/9/2011  14:29:36 listening on port 40355
+11/9/2011  14:29:36 131.170.90.4 40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK -1 134
+11/9/2011  14:29:36 listening on port 40355
+11/9/2011  14:29:36 listening on port 40355
+11/9/2011  14:29:36 131.170.90.4 40355 ass2test/index.html 200 OK 0 134
+11/9/2011  14:29:36 131.170.90.4 40355 ass2test/index.html 200 OK 0 134
+11/9/2011  14:29:36 listening on port 40355
+11/9/2011  14:29:36 131.170.90.4 40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK -1 134
+11/9/2011  14:29:36 listening on port 40355
+11/9/2011  14:29:36 131.170.90.4 40355 ass2test/index.html 200 OK 0 134
+11/9/2011  14:29:36 listening on port 40355
+11/9/2011  14:29:36 131.170.90.4 40355 ass2test/index.html 200 OK 0 134
+11/9/2011  14:29:36 listening on port 40355
+11/9/2011  14:29:36 131.170.90.4 40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK -1 134
+11/9/2011  14:29:36 listening on port 40355
+11/9/2011  14:29:36 131.170.90.4 40355 ass2test/index.html 200 OK 0 134
+11/9/2011  14:29:36 listening on port 40355
+11/9/2011  14:29:36 131.170.90.4 40355 ass2test/index.html 200 OK 0 134
+11/9/2011  14:29:36 listening on port 40355
+11/9/2011  14:29:36 131.170.90.4 40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK -1 134
+11/9/2011  14:29:36 listening on port 40355
+11/9/2011  14:29:36 listening on port 40355
+11/9/2011  14:29:36 listening on port 40355
+11/9/2011  14:29:36 listening on port 40355
+11/9/2011  14:29:36 listening on port 40355
+11/9/2011  14:29:36 listening on port 40355
+11/9/2011  14:29:36 listening on port 40355
+11/9/2011  14:29:36 listening on port 40355
+11/9/2011  14:29:36 131.170.90.4 40355 ass2test/index.html 200 OK 0 134
+11/9/2011  14:29:36 131.170.90.4 40355 ass2test/index.html 200 OK 0 134
+11/9/2011  14:29:36 131.170.90.4 40355 ass2test/index.html 200 OK 0 134
+11/9/2011  14:29:36 131.170.90.4 40355 ass2test/index.html 200 OK 0 134
+11/9/2011  14:29:36 131.170.90.4 40355 ass2test/index.html 200 OK 0 134
+11/9/2011  14:29:36 131.170.90.4 40355 ass2test/index.html 200 OK 0 134
+11/9/2011  14:29:36 131.170.90.4 40355 ass2test/index.html 200 OK 0 134
+11/9/2011  14:29:36 131.170.90.4 40355 ass2test/index.html 200 OK 0 134
+11/9/2011  14:29:36 listening on port 40355
+11/9/2011  14:29:36 131.170.90.4 40355 ass2test/index.html 200 OK 0 134
+11/9/2011  14:29:36 listening on port 40355
+11/9/2011  14:29:36 131.170.90.4 40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK -1 134
+11/9/2011  14:29:36 listening on port 40355
+11/9/2011  14:29:36 131.170.90.4 40355 ass2test/index.html 200 OK 0 134
+11/9/2011  14:29:36 listening on port 40355
+11/9/2011  14:29:36 131.170.90.4 40355 ass2test/index.html 200 OK 0 134
+11/9/2011  14:29:36 listening on port 40355
+11/9/2011  14:29:37 131.170.90.4 40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK -1 134
+11/9/2011  14:29:37 listening on port 40355
+11/9/2011  14:29:37 listening on port 40355
+11/9/2011  14:29:37 131.170.90.4 40355 ass2test/index.html 200 OK 0 134
+11/9/2011  14:29:37 131.170.90.4 40355 ass2test/index.html 200 OK 0 134
+11/9/2011  14:29:37 listening on port 40355
+11/9/2011  14:29:37 131.170.90.4 40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK -1 134
+11/9/2011  14:29:37 listening on port 40355
+11/9/2011  14:29:37 131.170.90.4 40355 ass2test/index.html 200 OK 0 134
+11/9/2011  14:29:37 listening on port 40355
+11/9/2011  14:29:37 131.170.90.4 40355 ass2test/index.html 200 OK 0 134
+11/9/2011  14:29:37 listening on port 40355
+11/9/2011  14:29:37 131.170.90.4 40355 ass2test/index.html 200 OK 0 134
+11/9/2011  14:29:37 listening on port 40355
+11/9/2011  14:29:37 131.170.90.4 40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK -1 134
+11/9/2011  14:29:37 listening on port 40355
+11/9/2011  14:29:37 131.170.90.4 40355 ass2test/index.html 200 OK 0 134
+11/9/2011  14:29:37 listening on port 40355
+11/9/2011  14:29:37 131.170.90.4 40355 ass2test/index.html 200 OK 0 134
+11/9/2011  14:29:37 listening on port 40355
+11/9/2011  14:29:37 131.170.90.4 40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK -1 134
+11/9/2011  14:29:37 listening on port 40355
+11/9/2011  14:29:37 listening on port 40355
+11/9/2011  14:29:37 131.170.90.4 40355 ass2test/index.html 200 OK 0 134
+11/9/2011  14:29:37 131.170.90.4 40355 ass2test/index.html 200 OK 0 134
+11/9/2011  14:29:37 listening on port 40355
+11/9/2011  14:29:37 131.170.90.4 40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK -1 134
+11/9/2011  14:29:37 listening on port 40355
+11/9/2011  14:29:37 131.170.90.4 40355 ass2test/index.html 200 OK 0 134
+11/9/2011  14:29:37 listening on port 40355
+11/9/2011  14:29:37 131.170.90.4 40355 ass2test/index.html 200 OK 0 134
+11/9/2011  14:29:37 listening on port 40355
+11/9/2011  14:29:37 131.170.90.4 40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 0 134
+11/9/2011  14:29:37 listening on port 40355
+11/9/2011  14:29:37 131.170.90.4 40355 ass2test/index.html 200 OK 0 134
+11/9/2011  14:29:37 listening on port 40355
+11/9/2011  14:29:37 131.170.90.4 40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 0 134
+11/9/2011  14:29:38 listening on port 40355
+11/9/2011  14:29:38 131.170.90.4 40355 ass2test/index.html 200 OK 0 134
+11/9/2011  14:29:38 listening on port 40355
+11/9/2011  14:29:38 131.170.90.4 40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 0 134
+11/9/2011  14:29:38 listening on port 40355
+11/9/2011  14:29:38 131.170.90.4 40355 ass2test/index.html 200 OK 0 134
+11/9/2011  14:29:38 listening on port 40355
+11/9/2011  14:29:38 131.170.90.4 40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 0 134
+11/9/2011  14:29:38 listening on port 40355
+11/9/2011  14:29:38 131.170.90.4 40355 ass2test/index.html 200 OK 0 11
+11/9/2011  14:29:38 listening on port 40355
+11/9/2011  14:29:38 131.170.90.4 40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 0 11
+11/9/2011  14:29:38 listening on port 40355
+11/9/2011  14:29:38 131.170.90.4 40355 ass2test/index.html 200 OK 0 11
+11/9/2011  14:29:38 listening on port 40355
+11/9/2011  14:29:38 131.170.90.4 40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 0 11
+11/9/2011  14:29:38 listening on port 40355
+11/9/2011  14:29:38 131.170.90.4 40355 ass2test/index.html 200 OK 0 11
+11/9/2011  14:29:38 listening on port 40355
+11/9/2011  14:29:38 131.170.90.4 40355 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 0 11
+11/9/2011  14:29:39 listening on port 40355
+11/9/2011  14:29:39 listening on port 40355
+11/9/2011  14:29:39 131.170.90.4 40355 ass2test/index.html 200 OK 0 11
+11/9/2011  14:29:39 131.170.90.4 40355 ass2test/index.html 200 OK 0 11
+11/9/2011  14:29:39 listening on port 40355
+11/9/2011  14:29:39 listening on port 40355
+11/9/2011  14:29:39 131.170.90.4 40355 ass2test/index.html 200 OK 0 11
+11/9/2011  14:29:39 131.170.90.4 40355 ass2test/index.html 200 OK 0 11
+11/9/2011  14:29:39 listening on port 40355
+11/9/2011  14:29:39 listening on port 40355
+11/9/2011  14:29:39 131.170.90.4 40355 ass2test/index.html 200 OK 0 11
+11/9/2011  14:29:39 131.170.90.4 40355 ass2test/index.html 200 OK 0 11
+11/9/2011  14:29:39 listening on port 40355
+11/9/2011  14:29:39 131.170.90.4 40355 ass2test/index.html 200 OK 0 11
+11/9/2011  14:29:43 listening on port 40355
+11/9/2011  14:29:43 listening on port 40355
+11/9/2011  14:29:43 listening on port 40355
+11/9/2011  14:29:43 listening on port 40355
+11/9/2011  14:29:43 listening on port 40355
+11/9/2011  14:29:44 listening on port 40355
+11/9/2011  14:29:44 listening on port 40355
+11/9/2011  14:29:44 listening on port 40355
+11/9/2011  14:29:44 listening on port 40355
+11/9/2011  14:29:45 listening on port 40355
+11/9/2011  14:29:45 listening on port 40355
+11/9/2011  14:29:45 listening on port 40355
+11/9/2011  14:29:50 131.170.24.42 40355 ass2test/index.html 200 OK 0 11
+11/9/2011  14:30:45 server-single 1.2.2
+11/9/2011  14:30:45 initialization complete
+11/9/2011  14:30:45 initialization complete
+11/9/2011  14:30:45 listening on port 40355
+11/9/2011  14:30:45 131.170.90.4 40355 ass2test/  441 0
+11/9/2011  14:30:47 listening on port 40355
+11/9/2011  14:30:47 131.170.90.4 40355 ass2test/  441 0
+11/9/2011  14:30:48 listening on port 40355
+11/9/2011  14:30:48 listening on port 40355
+11/9/2011  14:30:48 131.170.90.4 40355 ass2test/  441 0
+11/9/2011  14:31:29 server-single 1.2.2
+11/9/2011  14:31:29 initialization complete
+11/9/2011  14:31:29 initialization complete
+11/9/2011  14:31:29 listening on port 40355
+11/9/2011  14:31:29 listening on port 40355
+11/9/2011  14:31:29 131.170.90.4 40355 ass2test/  441 2
+11/9/2011  14:31:29 131.170.90.4 40355 ass2test/config/kill -15 3506 404 Not Found 107 2
+11/9/2011  14:31:30 listening on port 40355
+11/9/2011  14:31:30 131.170.90.4 40355 ass2test/  441 2
+11/9/2011  14:31:32 server-single 1.2.2
+11/9/2011  14:31:32 initialization complete
+11/9/2011  14:31:32 initialization complete
+11/9/2011  14:31:51 server-single 1.2.2
+11/9/2011  14:31:51 initialization complete
+11/9/2011  14:31:51 initialization complete
+11/9/2011  14:31:56 listening on port 40375
+11/9/2011  14:31:56 131.170.90.4 40375 ass2test/index.html 200 OK 0 0
+11/9/2011  14:31:56 listening on port 40375
+11/9/2011  14:31:56 131.170.90.4 40375 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 0 11
+11/9/2011  14:31:56 listening on port 40375
+11/9/2011  14:31:56 131.170.90.4 40375 ass2test/favicon.ico 404 Not Found 107 2
+11/9/2011  14:31:56 listening on port 40375
+11/9/2011  14:31:56 131.170.90.4 40375 ass2test/favicon.ico 404 Not Found 107 2
+11/9/2011  14:31:59 listening on port 40375
+11/9/2011  14:31:59 131.170.90.4 40375 ass2test/  441 2
+11/9/2011  14:32: 2 listening on port 40375
+11/9/2011  14:32: 2 131.170.90.4 40375 ass2test/  440 2
+11/9/2011  14:32: 6 listening on port 40375
+11/9/2011  14:32: 6 131.170.90.4 40375 ass2test/  440 11
+11/9/2011  14:32: 6 listening on port 40375
+11/9/2011  14:32: 6 131.170.90.4 40375 ass2test/  440 11
+11/9/2011  14:32: 7 listening on port 40375
+11/9/2011  14:32: 7 131.170.90.4 40375 ass2test/  440 11
+11/9/2011  14:32: 7 listening on port 40375
+11/9/2011  14:32: 7 131.170.90.4 40375 ass2test/  441 11
+11/9/2011  14:32: 7 listening on port 40375
+11/9/2011  14:32: 7 131.170.90.4 40375 ass2test/  441 11
+11/9/2011  14:32: 7 listening on port 40375
+11/9/2011  14:32: 7 131.170.90.4 40375 ass2test/  441 11
+11/9/2011  14:32:10 listening on port 40375
+11/9/2011  14:32:10 131.170.90.4 40375 ass2test/  442 11
+11/9/2011  14:32:15 listening on port 40375
+11/9/2011  14:32:15 131.170.90.4 40375 ass2test/  442 11
+11/9/2011  14:32:17 listening on port 40375
+11/9/2011  14:32:17 131.170.90.4 40375 ass2test/  442 11
+11/9/2011  14:32:18 listening on port 40375
+11/9/2011  14:32:18 131.170.90.4 40375 ass2test/  442 11
+11/9/2011  14:32:21 listening on port 40375
+11/9/2011  14:32:21 131.170.90.4 40375 ass2test/  442 11
+11/9/2011  14:32:22 listening on port 40375
+11/9/2011  14:32:22 131.170.90.4 40375 ass2test/  442 11
+11/9/2011  14:32:25 server-single 1.2.2
+11/9/2011  14:32:25 initialization complete
+11/9/2011  14:32:25 initialization complete
+11/9/2011  14:32:27 listening on port 40375
+11/9/2011  14:32:27 131.170.90.4 40375 ass2test/  441 0
+11/9/2011  14:32:28 listening on port 40375
+11/9/2011  14:32:28 131.170.90.4 40375 ass2test/  441 0
+11/9/2011  14:32:29 listening on port 40375
+11/9/2011  14:32:29 131.170.90.4 40375 ass2test/  441 0
+11/9/2011  14:32:29 listening on port 40375
+11/9/2011  14:32:29 131.170.90.4 40375 ass2test/  441 0
+11/9/2011  14:32:30 listening on port 40375
+11/9/2011  14:32:30 131.170.90.4 40375 ass2test/  441 11
+11/9/2011  14:32:30 listening on port 40375
+11/9/2011  14:32:30 131.170.90.4 40375 ass2test/  441 11
+11/9/2011  14:32:31 listening on port 40375
+11/9/2011  14:32:31 131.170.90.4 40375 ass2test/  441 11
+11/9/2011  14:32:33 listening on port 40375
+11/9/2011  14:32:33 131.170.90.4 40375 ass2test/  441 11
+11/9/2011  14:32:34 listening on port 40375
+11/9/2011  14:32:34 131.170.90.4 40375 ass2test/  441 11
+11/9/2011  14:32:49 listening on port 40375
+11/9/2011  14:32:49 131.170.90.4 40375 ass2test/  442 11
+11/9/2011  14:32:51 listening on port 40375
+11/9/2011  14:32:51 131.170.90.4 40375 ass2test/  442 11
+11/9/2011  14:32:52 listening on port 40375
+11/9/2011  14:32:52 131.170.90.4 40375 ass2test/  442 11
+11/9/2011  14:33: 4 listening on port 40375
+11/9/2011  14:33: 4 131.170.90.4 40375 ass2test/  441 11
+11/9/2011  14:33: 6 listening on port 40375
+11/9/2011  14:33: 6 131.170.90.4 40375 ass2test/index.html 200 OK 0 11
+11/9/2011  14:33: 6 listening on port 40375
+11/9/2011  14:33: 6 131.170.90.4 40375 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 0 11
+11/9/2011  14:33: 7 listening on port 40375
+11/9/2011  14:33: 7 131.170.90.4 40375 ass2test/index.html 200 OK 0 11
+11/9/2011  14:33: 7 listening on port 40375
+11/9/2011  14:33: 7 131.170.90.4 40375 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 0 11
+11/9/2011  14:33: 8 listening on port 40375
+11/9/2011  14:33: 8 131.170.90.4 40375 ass2test/index.html 200 OK 0 11
+11/9/2011  14:33: 8 listening on port 40375
+11/9/2011  14:33: 8 131.170.90.4 40375 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 0 11
+11/9/2011  14:33: 8 listening on port 40375
+11/9/2011  14:33: 8 131.170.90.4 40375 ass2test/index.html 200 OK 0 11
+11/9/2011  14:33: 8 listening on port 40375
+11/9/2011  14:33: 8 131.170.90.4 40375 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 0 11
+11/9/2011  14:33: 8 listening on port 40375
+11/9/2011  14:33: 8 131.170.90.4 40375 ass2test/index.html 200 OK 0 11
+11/9/2011  14:33: 8 listening on port 40375
+11/9/2011  14:33: 8 131.170.90.4 40375 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 0 11
+11/9/2011  14:33: 8 listening on port 40375
+11/9/2011  14:33: 8 131.170.90.4 40375 ass2test/index.html 200 OK 0 11
+11/9/2011  14:33: 8 listening on port 40375
+11/9/2011  14:33: 8 131.170.90.4 40375 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 0 11
+11/9/2011  14:33: 9 listening on port 40375
+11/9/2011  14:33: 9 131.170.90.4 40375 ass2test/index.html 200 OK 0 11
+11/9/2011  14:33: 9 listening on port 40375
+11/9/2011  14:33: 9 131.170.90.4 40375 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 0 11
+11/9/2011  14:33: 9 listening on port 40375
+11/9/2011  14:33: 9 131.170.90.4 40375 ass2test/index.html 200 OK 0 11
+11/9/2011  14:33: 9 listening on port 40375
+11/9/2011  14:33: 9 131.170.90.4 40375 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 0 11
+11/9/2011  14:33: 9 listening on port 40375
+11/9/2011  14:33: 9 131.170.90.4 40375 ass2test/index.html 200 OK 0 11
+11/9/2011  14:33: 9 listening on port 40375
+11/9/2011  14:33: 9 131.170.90.4 40375 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 0 11
+11/9/2011  14:33: 9 listening on port 40375
+11/9/2011  14:33: 9 131.170.90.4 40375 ass2test/index.html 200 OK 0 11
+11/9/2011  14:33: 9 listening on port 40375
+11/9/2011  14:33: 9 131.170.90.4 40375 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 0 11
+11/9/2011  14:33: 9 listening on port 40375
+11/9/2011  14:33: 9 131.170.90.4 40375 ass2test/index.html 200 OK 0 11
+11/9/2011  14:33: 9 listening on port 40375
+11/9/2011  14:33: 9 131.170.90.4 40375 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 0 11
+11/9/2011  14:33: 9 listening on port 40375
+11/9/2011  14:33: 9 131.170.90.4 40375 ass2test/index.html 200 OK 0 11
+11/9/2011  14:33: 9 listening on port 40375
+11/9/2011  14:33: 9 131.170.90.4 40375 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 0 11
+11/9/2011  14:33:10 listening on port 40375
+11/9/2011  14:33:10 131.170.90.4 40375 ass2test/index.html 200 OK 0 11
+11/9/2011  14:33:10 listening on port 40375
+11/9/2011  14:33:10 131.170.90.4 40375 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 0 11
+11/9/2011  14:33:10 listening on port 40375
+11/9/2011  14:33:10 131.170.90.4 40375 ass2test/index.html 200 OK 0 11
+11/9/2011  14:33:10 listening on port 40375
+11/9/2011  14:33:10 131.170.90.4 40375 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 0 11
+11/9/2011  14:33:10 listening on port 40375
+11/9/2011  14:33:10 131.170.90.4 40375 ass2test/index.html 200 OK 0 11
+11/9/2011  14:33:10 listening on port 40375
+11/9/2011  14:33:10 131.170.90.4 40375 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 0 11
+11/9/2011  14:33:10 listening on port 40375
+11/9/2011  14:33:10 131.170.90.4 40375 ass2test/index.html 200 OK 0 11
+11/9/2011  14:33:10 listening on port 40375
+11/9/2011  14:33:10 131.170.90.4 40375 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 0 11
+11/9/2011  14:33:10 listening on port 40375
+11/9/2011  14:33:10 131.170.90.4 40375 ass2test/index.html 200 OK 0 11
+11/9/2011  14:33:10 listening on port 40375
+11/9/2011  14:33:10 131.170.90.4 40375 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 0 11
+11/9/2011  14:33:10 listening on port 40375
+11/9/2011  14:33:10 131.170.90.4 40375 ass2test/index.html 200 OK 0 11
+11/9/2011  14:33:11 listening on port 40375
+11/9/2011  14:33:11 131.170.90.4 40375 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 0 11
+11/9/2011  14:33:11 listening on port 40375
+11/9/2011  14:33:11 131.170.90.4 40375 ass2test/index.html 200 OK 0 11
+11/9/2011  14:33:11 listening on port 40375
+11/9/2011  14:33:11 131.170.90.4 40375 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 0 11
+11/9/2011  14:33:11 listening on port 40375
+11/9/2011  14:33:11 131.170.90.4 40375 ass2test/index.html 200 OK 0 11
+11/9/2011  14:33:25 listening on port 40375
+11/9/2011  14:33:25 131.170.90.4 40375 ass2test/  442 11
+11/9/2011  14:33:27 listening on port 40375
+11/9/2011  14:33:27 131.170.90.4 40375 ass2test/  442 11
+11/9/2011  14:33:28 listening on port 40375
+11/9/2011  14:33:28 131.170.90.4 40375 ass2test/index.html 200 OK 0 11
+11/9/2011  14:33:28 listening on port 40375
+11/9/2011  14:33:28 131.170.90.4 40375 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 0 11
+11/9/2011  14:33:41 listening on port 40375
+11/9/2011  14:33:41 131.170.90.4 40375 ass2test/  442 11
+11/9/2011  14:33:43 listening on port 40375
+11/9/2011  14:33:43 131.170.90.4 40375 ass2test/  442 11
+11/9/2011  14:33:44 listening on port 40375
+11/9/2011  14:33:44 131.170.90.4 40375 ass2test/index.html 200 OK 0 11
+11/9/2011  14:33:44 listening on port 40375
+11/9/2011  14:33:44 131.170.90.4 40375 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 0 11
+11/9/2011  14:33:44 listening on port 40375
+11/9/2011  14:33:44 131.170.90.4 40375 ass2test/sub1/rooter.pdf 200 OK 0 11
+11/9/2011  14:33:53 listening on port 40375
+11/9/2011  14:33:53 131.170.90.4 40375 ass2test/  442 11
+11/9/2011  14:33:55 listening on port 40375
+11/9/2011  14:33:55 131.170.90.4 40375 ass2test/  442 11
+11/9/2011  14:34: 3 listening on port 40375
+11/9/2011  14:34: 3 131.170.90.4 40375 ass2test/  441 11
+11/9/2011  14:34: 7 listening on port 40375
+11/9/2011  14:34: 7 131.170.90.4 40375 ass2test/  441 11
+11/9/2011  14:34: 9 listening on port 40375
+11/9/2011  14:34: 9 131.170.90.4 40375 ass2test/  441 11
+11/9/2011  14:34:34 listening on port 40375
+11/9/2011  14:34:34 131.170.90.4 40375 ass2test/index.html 200 OK 0 11
+11/9/2011  14:34:34 listening on port 40375
+11/9/2011  14:34:34 131.170.90.4 40375 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 0 11
+11/9/2011  14:34:42 listening on port 40375
+11/9/2011  14:34:42 131.170.90.4 40375 ass2test/  442 11
+11/9/2011  14:34:45 listening on port 40375
+11/9/2011  14:34:45 131.170.90.4 40375 ass2test/  442 11
+11/9/2011  14:34:46 listening on port 40375
+11/9/2011  14:34:46 131.170.90.4 40375 ass2test/  442 11
+11/9/2011  14:34:47 listening on port 40375
+11/9/2011  14:34:47 131.170.90.4 40375 ass2test/index.html 200 OK 0 11
+11/9/2011  14:34:47 listening on port 40375
+11/9/2011  14:34:47 131.170.90.4 40375 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 0 11
+11/9/2011  14:34:49 listening on port 40375
+11/9/2011  14:34:49 131.170.90.4 40375 ass2test/test.config 200 OK 0 11
+11/9/2011  14:34:54 listening on port 40375
+11/9/2011  14:34:54 131.170.90.4 40375 ass2test/  442 11
+11/9/2011  14:34:56 listening on port 40375
+11/9/2011  14:34:56 131.170.90.4 40375 ass2test/  442 11
+11/9/2011  14:35: 1 server-single 1.2.2
+11/9/2011  14:35: 1 initialization complete
+11/9/2011  14:35: 1 initialization complete
+11/9/2011  14:35: 3 listening on port 40375
+11/9/2011  14:35: 3 131.170.90.4 40375 ass2test/  440 0
+11/9/2011  14:35: 5 listening on port 40375
+11/9/2011  14:35: 5 131.170.90.4 40375 ass2test/  440 0
+11/9/2011  14:35: 6 listening on port 40375
+11/9/2011  14:35: 6 131.170.90.4 40375 ass2test/index.html 200 OK 0 0
+11/9/2011  14:35: 6 listening on port 40375
+11/9/2011  14:35: 6 131.170.90.4 40375 ass2test/sub1/sub2/CSU_Hub_DC3.png 200 OK 0 0

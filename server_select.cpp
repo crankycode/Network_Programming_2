@@ -1,0 +1,869 @@
+#include <fcntl.h>
+#include <sys/types.h>
+#include <sys/socket.h>
+#include <sys/stat.h>
+#include <sys/utsname.h>
+#include <signal.h>
+
+#include <netdb.h>
+#include <stdio.h>
+#include <unistd.h>
+#include <stdlib.h>
+#include <arpa/inet.h>
+#include <string.h>
+#include <time.h>
+#include <netinet/in.h> 
+
+#include "utils.h"
+#include "myconfiglib.h"
+#include "clientReq.h"
+
+#include <vector>
+
+int logging, sdFlag = FALSE;
+int recordingReq;
+int maxFd;
+int logHdl;    // Logfile handle
+int reqLogHdl; // Record request file handle
+int socket1;   // Listening socket
+int currentNumConn;
+int numOfReq;
+fd_set  readset, writeset;
+ClientReq clientReqTemp;   
+
+Configfile configSetting;     
+             
+string serverInfo;
+vector<ClientReq*> clientList;
+vector<int> rmClientSockets;
+
+void
+updateLogfile(int logType,int logHdl, ClientReq& clientReq, Configfile* config)
+{
+  struct tm* timeLc;
+  time_t t;
+  
+  time(&t);
+  timeLc = localtime(&t);
+  
+  char logBuf  [LOGBUF_LEN];
+  
+  if (logging == TRUE) {
+    switch(logType)
+    {
+      case SERVER_TYPE:
+        sprintf(logBuf,"%d/%d/%d  %d:%d:%2d server-single 1.2.2\n",
+        timeLc->tm_mday, timeLc->tm_mon, timeLc->tm_year + EXTRA_YEAR,
+        timeLc->tm_hour, timeLc->tm_min, timeLc->tm_sec);
+        write(logHdl,logBuf,strlen(logBuf)); 
+      case INIT:
+        sprintf(logBuf,"%d/%d/%d  %d:%d:%2d initialization complete\n",
+        timeLc->tm_mday, timeLc->tm_mon, timeLc->tm_year + EXTRA_YEAR,
+        timeLc->tm_hour, timeLc->tm_min, timeLc->tm_sec);
+        write(logHdl,logBuf,strlen(logBuf));          
+      break;
+      case LISTEN:
+        sprintf(logBuf,"%d/%d/%d  %d:%d:%2d listening on port %d\n",
+        timeLc->tm_mday, timeLc->tm_mon, timeLc->tm_year + EXTRA_YEAR,
+        timeLc->tm_hour, timeLc->tm_min, timeLc->tm_sec, config->port);
+        write(logHdl,logBuf,strlen(logBuf));
+      break;
+
+      case ACCEPT:
+        sprintf(logBuf,"%d/%d/%d %s %d:%d:%2d %s %d %s %s %d %d\n",
+        timeLc->tm_mday, timeLc->tm_mon, timeLc->tm_year + EXTRA_YEAR,
+        config->startTime,
+        timeLc->tm_hour, timeLc->tm_min, timeLc->tm_sec,
+        clientReq.ip.c_str(), config->port, clientReq.reqFileName.c_str(),
+        clientReq.statusCode.c_str(), clientReq.dataWriten, errno);
+        write(logHdl,logBuf,strlen(logBuf));
+      break;
+      
+      case SHUTDOWN:
+        sprintf(logBuf,"%d/%d/%d  %d:%d:%2d shutdown request\n",
+        timeLc->tm_mday, timeLc->tm_mon, timeLc->tm_year + EXTRA_YEAR,
+        timeLc->tm_hour, timeLc->tm_min, timeLc->tm_sec);
+        write(logHdl,logBuf,strlen(logBuf)); 
+      break;
+      case ALLCLOSE:
+        sprintf(logBuf,"%d/%d/%d  %d:%d:%2d all connection closed\n",
+        timeLc->tm_mday, timeLc->tm_mon, timeLc->tm_year + EXTRA_YEAR,
+        timeLc->tm_hour, timeLc->tm_min, timeLc->tm_sec);
+        write(logHdl,logBuf,strlen(logBuf));   
+        sprintf(logBuf,"%d/%d/%d  %d:%d:%2d terminating server\n",
+        timeLc->tm_mday, timeLc->tm_mon, timeLc->tm_year + EXTRA_YEAR,
+        timeLc->tm_hour, timeLc->tm_min, timeLc->tm_sec);
+        write(logHdl,logBuf,strlen(logBuf));             
+      break;
+    }      
+  }
+}
+
+void 
+setLoggingSetting(int* logHdl, int* reqLogHdl)
+{
+ // Set logging and request logfile flags
+  if(logging == TRUE) {
+    *logHdl = open(configSetting.logfile,  O_RDWR | O_CREAT | O_APPEND, 0777);
+    
+    if(*logHdl == -1) {
+      fprintf(stderr,"Fail to open logfile\n");
+      exit(1);
+    }
+  }
+  
+  if(recordingReq == TRUE) {
+	 *reqLogHdl = open(configSetting.recordfile, O_RDWR | O_CREAT | O_APPEND, 0777);
+
+	 if(*reqLogHdl == -1) {
+		fprintf(stderr,"Fail to open request receive logfile\n");
+		exit(1);
+	 }
+  }  
+}
+
+void 
+setServerInfo(struct utsname& unameData)
+{
+  ostringstream oss;
+  
+  oss << unameData.sysname << "/" << unameData.release << ":" << 
+         unameData.version;
+  serverInfo = oss.str();
+  
+  strcpy(configSetting.server,serverInfo.c_str()); 
+}
+
+void 
+setServerIpAddr(char* srvIp)
+{
+  struct in_addr address, **addrptr;
+  struct hostent *answer;
+  string serverIp;
+  
+ /* If the argument looks like an IP, assume it was one and 
+  perform a reverse name lookup */ 
+  if (inet_aton(configSetting.host, &address))
+      answer = gethostbyaddr((char *) &address, sizeof(address),AF_INET);
+  else
+      answer = gethostbyname(configSetting.host);
+      
+  /* The hostname lookup failed :-( */
+  if (!answer) {
+      fprintf(stderr,"error looking up hostname\n");
+      exit(1);
+  }
+
+  for (addrptr = (struct in_addr **) answer->h_addr_list; *addrptr; addrptr++)
+  {    
+    strcpy(srvIp,inet_ntoa(**addrptr));
+    break;
+  }  
+  
+}
+
+void 
+createStatusHTM(string& statusPg,configfile& cfg)
+{
+  struct tm* timeLc;
+  time_t t;
+  
+  time(&t);
+  timeLc = localtime(&t);
+  
+  ostringstream oss;
+  
+  oss << "<html>\r\n";
+  oss << "<head>\r\n";
+  oss << "<title> " << " " << " </title>\r\n";  
+  oss << "</head>\r\n";
+  oss << "<body>\r\n";
+  
+  oss << "<table width=\"518\" border=\"0\" align=\"center\">\r\n";
+  oss << "<tr>";
+  oss << "<td width=\"416\"><p><h1>Server Status Page</h1>\r\n";
+  oss << "<p>"                             << cfg.server      << "<br />\r\n";
+  oss << "Status at "                      << timeLc->tm_mday << " ";
+  oss << month[timeLc->tm_mon][FIRST_ELE]  << " ";
+  oss << timeLc->tm_year + EXTRA_YEAR      << ", ";
+  oss << timeLc->tm_hour << ":" << timeLc->tm_min << ":" << timeLc->tm_sec;
+  oss << "<br />\r\n";
+  oss << "Active connections: "            << currentNumConn   << "<br />\r\n";
+  oss << "Total requests: "                << numOfReq    << "<br />\r\n";
+  oss << "Listening port: "                << cfg.port        << "<br />\r\n";
+  oss << "To shutdown, do &quot;"          << cfg.shutdown_command;
+  oss << " or click <a href=\""            << cfg.shutdown_command;
+  oss << "\">here</a>.<br /></p>\r\n";
+  oss << "</td></tr></table>\r\n";
+  oss << "</body>\r\n";
+  oss << "</html>\r\n";
+  
+  statusPg = oss.str();
+}
+
+void
+signal_Handler(int signo)
+{
+//cout << signo << endl;
+  switch (signo)
+  {
+    case SIGTERM:
+    #if DEBUG
+      cout << "shutting down" << endl;
+    #endif  
+      exit(1);
+    break;
+    case SIGPIPE:
+    #if DEBUG  
+      cout << "client disconnect" << endl;
+    #endif
+    break;
+    case SIGALRM:
+    #if DEBUG
+      cout << "client timeout" << endl;
+    #endif
+    break;
+  }
+}
+
+void freeClientList()
+{
+  vector<ClientReq*>::iterator it;
+  for(it = clientList.begin(); it !=clientList.end(); it++) 
+  {
+    delete *it;
+    clientList.clear();
+  }
+}
+
+void 
+doAccumRequest(ClientReq* clientReq)
+{
+    int           readCounter;
+    unsigned int  found;
+    char          request[MAXBUF];
+    ostringstream oss;
+    
+    memset(request,'\0',MAXBUF);
+    readCounter = read(clientReq->reqSocket,request, MAXBUF);    
+    
+    // Error while reading. Beakout of loop first
+    if (readCounter == -1) {
+        cout << errno << " " << strerror(errno) << endl;
+        if (errno == SIGILL || errno == SIGWAITING || errno == SIGPIPE) {
+          cout << "Invalid Request" << endl;
+          fprintf(stderr,
+          "Could not read filename from socket!\n");
+       } 
+       if (errno == EINTR) {
+          #if DEBUG
+          cout << "EINTR" << endl;
+          #endif
+       }  
+       if (errno == EWOULDBLOCK) {
+          #if DEBUG
+          cout << "EWOULDBLOCK" << endl;
+          #endif
+        }
+        fprintf(stderr,"error reading client request errno: %d, %s\n", errno,
+                strerror(errno));
+
+      clientReq->nextAction = ST_ACCUM_REQ;
+      clientReq->waitType   = WAIT_READ;
+      clientReq->waitingFD  = clientReq->reqSocket;
+      FD_SET(clientReq->reqSocket, &readset);
+        return;
+    }
+    clientReq->clientRequest.append((string)request);
+    found = clientReq->clientRequest.find("\r\n\r\n");
+    
+    if (readCounter == 0 || found != string::npos) {
+       clientReq->reqResult = clientReq->parseClientRequest(configSetting);
+        if (clientReq->reqResult == TRUE) {
+
+            stat(clientReq->reqFileName.c_str(), &(clientReq->fileInfo));
+            clientReq->fileSize = clientReq->fileInfo.st_size;
+            clientReq->reqStatusPage = FALSE;
+            clientReq->nextAction    = ST_WRITE_HEADER;
+            clientReq->waitType      = WAIT_WRITE;
+            clientReq->waitingFD     = clientReq->reqSocket;
+            FD_CLR(clientReq->reqSocket, &readset);
+            FD_SET(clientReq->reqSocket, &writeset); 
+            
+            #if DEBUG
+            // End of request file
+            cout << "completed :\n" << clientReq->clientRequest << endl;
+            #endif
+            
+            // Create replyHeader
+            clientReq->createReplyHeader(clientReq->fileSize, configSetting);
+            readCounter = 0;
+            return;
+        }
+        else if(clientReq->reqResult == FALSE){
+            cout << "error parsing client request" << endl;
+            clientReq->dataWriten = 0;
+            clientReq->dataLeft   = clientReq->replyHeader.length();
+            
+            clientReq->nextAction = ST_WRITE_ERROR_PAGE_HEADER;
+            clientReq->waitType   = WAIT_WRITE;
+            clientReq->waitingFD  = clientReq->reqSocket;
+            
+            FD_CLR(clientReq->reqSocket, &readset);
+            FD_SET(clientReq->reqSocket, &writeset);    
+            return; 
+        }
+      else if(clientReq->reqResult == SHUTDOWN) {
+            sdFlag = TRUE;
+            FD_CLR(socket1, &readset);
+            FD_CLR(clientReq->reqSocket, &readset);
+            rmClientSockets.push_back(clientReq->reqSocket);
+            shutdown(clientReq->reqSocket,SHUT_RDWR);
+            close(socket1);
+            return;
+      }
+     else if (clientReq->reqResult == STATUS_REQ) {
+            clientReq->reqStatusPage = TRUE;
+            string statusPg; 
+            createStatusHTM(statusPg, configSetting);
+            clientReq->createReplyHeader(statusPg.length(),configSetting);
+            clientReq->readInFileData = statusPg;
+            clientReq->fileSize = statusPg.length();
+            clientReq-> dataLeft = statusPg.length();
+            clientReq->nextAction = ST_WRITE_HEADER;
+            clientReq->waitType   = WAIT_WRITE;
+            clientReq->waitingFD  = clientReq->reqSocket;
+            FD_CLR(clientReq->reqSocket, &readset);
+            FD_SET(clientReq->reqSocket, &writeset); 
+            
+            return;
+     }
+    }
+    
+    // More data to come
+    else if(readCounter > 0) {
+      #if DEBUG      
+        cout << request;
+      #endif
+      clientReq->nextAction = ST_ACCUM_REQ;
+      clientReq->waitType   = WAIT_READ;
+      clientReq->waitingFD  = clientReq->reqSocket;
+    }
+   
+
+}
+
+void 
+doWriteErrorPgHeader(ClientReq* clientReq)
+{
+  
+  clientReq->dataWriten = write(clientReq->reqSocket,
+           clientReq->replyHeader.c_str(),
+           clientReq->dataLeft);
+           
+  //clientReq->dataLeft -= clientReq->dataWriten;
+  
+  #if DEBUG
+  cout << "dataWriten:" << clientReq->dataWriten << "data left" << clientReq->dataLeft;
+  #endif
+  if (clientReq->dataWriten == -1) {
+    #if DEBUG
+      cout << errno << " " << strerror(errno) << endl;
+    #endif
+  }
+
+    clientReq->dataWriten = 0;
+    clientReq->dataLeft   = 0;
+    FD_CLR(clientReq->reqSocket ,&readset);
+    FD_SET(clientReq->reqSocket ,&writeset);
+    
+    clientReq->nextAction = ST_SEND_STATUS_PAGE;
+    clientReq->waitType   = WAIT_WRITE;
+    clientReq->waitingFD  = clientReq->reqSocket;    
+    return;
+//  }
+}
+
+void
+doSendStatusPage(ClientReq* clientReq)
+{
+  int result;
+  clientReq->dataWriten = write(clientReq->reqSocket,
+                                clientReq->statusPageReply.c_str(),
+                                clientReq->statusPageReply.length());
+ #if DEBUG
+  cout << result << " of data written" << endl;
+  #endif
+  if (result == -1) {
+    #if DEBUG
+      cout << "could send error status page, errno:" << errno << " " <<
+           strerror(errno);
+    #endif
+    clientReq->nextAction = ST_CLOSE_CONN;
+    clientReq->waitType   = WAIT_WRITE;
+    clientReq->waitingFD  = clientReq->reqSocket;   
+    return;
+  }
+  
+  FD_CLR(clientReq->reqSocket, &readset);
+  FD_SET(clientReq->reqSocket, &writeset);
+  
+  clientReq->nextAction = ST_CLOSE_CONN;
+  clientReq->waitType   = WAIT_WRITE;
+  clientReq->waitingFD  = clientReq->reqSocket;      
+}
+
+void
+doWriteHeader(ClientReq* clientReq)
+{
+  int result;
+  result =  write(clientReq->reqSocket, clientReq->replyHeader.c_str(),
+                             clientReq->replyHeader.length());
+ 
+  #if DEBUG
+      cout << result <<" :writting header " << endl;
+  #endif
+    
+  if (result == -1) {
+    #if DEBUG
+      cout << errno << " writing header, error" << strerror(errno) << endl;
+    #endif
+    clientReq->nextAction = ST_CLOSE_CONN;
+    clientReq->waitType   = WAIT_WRITE;
+    clientReq->waitingFD  = clientReq->reqSocket;   
+    return;
+  }
+  // Open and retrieve Fd of client requested data
+  clientReq->readFileFd = open(clientReq->reqFileName.c_str(), O_RDONLY);
+  if ( maxFd < clientReq->readFileFd)
+    maxFd = clientReq->readFileFd;
+  
+  if (clientReq->reqStatusPage == FALSE) {
+    // Set Fd in writeset and readset for select()
+    FD_CLR(clientReq->reqSocket ,&writeset);
+    FD_SET(clientReq->readFileFd,&readset);
+    
+    // Set next state arguments
+    clientReq->nextAction = ST_READ_DATA;
+    clientReq->waitType   = WAIT_READ;
+    clientReq->waitingFD  = clientReq->readFileFd;
+  }
+  else {
+        // Set Fd in writeset and readset for select()
+    FD_SET(clientReq->readFileFd,&writeset);
+    
+    // Set next state arguments
+    clientReq->nextAction = ST_SEND_DATA;
+    clientReq->waitType   = WAIT_WRITE;
+    clientReq->waitingFD  = clientReq->reqSocket;
+    clientReq->dataLeft   =clientReq->fileSize;
+  }
+}
+
+void
+doReadData(ClientReq* clientReq)
+{
+    char request[MAXBUF];
+    int readCounter;
+    ostringstream oss;
+    
+    memset(request,'\0',MAXBUF);
+    clientReq->dataLeft = read(clientReq->readFileFd,request, MAXBUF);    
+    
+    clientReq->readInFileData = ((string)request);
+    
+    if( readCounter == -1) {
+      #if DEBUG
+        fprintf(stderr, "error encounted during ReadData errno:%d, %s\n",
+                errno, strerror(errno));
+      #endif
+    }
+
+    if (clientReq->dataLeft > 0) {
+      FD_CLR(clientReq->readFileFd ,&readset);
+      FD_SET(clientReq->reqSocket  ,&writeset);
+      clientReq->lastRead   = FALSE;
+      clientReq->nextAction = ST_SEND_DATA;
+      clientReq->waitType   = WAIT_WRITE;
+      clientReq->waitingFD  = clientReq->reqSocket;          
+      return;
+    }
+    else {
+      FD_CLR(clientReq->readFileFd ,&readset);
+      FD_SET(clientReq->reqSocket  ,&writeset);
+      clientReq->lastRead   = TRUE;
+      clientReq->nextAction = ST_SEND_DATA;
+      clientReq->waitType   = WAIT_WRITE;
+      clientReq->waitingFD  = clientReq->reqSocket;    
+      close(clientReq->readFileFd);
+      return;
+    }
+}
+
+void
+doSendData(ClientReq* clientReq)
+{
+  
+    clientReq->dataWriten = write(clientReq->reqSocket,
+                          clientReq->readInFileData.c_str(),
+                          clientReq->dataLeft);
+                          
+  //  clientReq->dataLeft -= clientReq->dataWriten;
+  
+  #if DEBUG
+  cout << "data recieve: << clientReq->dataLeft << " data send: << clientReq->dataWriten << endl;
+  #endif
+
+  if (clientReq->dataWriten == -1) {
+    #if DEBUG
+      cout << errno << " " << strerror(errno) << endl;
+    #endif
+  }
+  
+  if ( clientReq->lastRead == FALSE) {
+    FD_CLR(clientReq->reqSocket  ,&writeset);
+    FD_SET(clientReq->readFileFd ,&readset);
+    
+    clientReq->nextAction = ST_READ_DATA;
+    clientReq->waitType   = WAIT_READ;
+    clientReq->waitingFD  = clientReq->readFileFd; 
+    return;
+  }
+  else if( clientReq->reqStatusPage == TRUE) {
+    FD_CLR(clientReq->reqSocket ,&readset);
+    FD_SET(clientReq->reqSocket ,&writeset);
+    
+    clientReq->nextAction = ST_CLOSE_CONN;
+    clientReq->waitType   = WAIT_WRITE;
+    clientReq->waitingFD  = clientReq->reqSocket;    
+    return;    
+  }
+  else if (clientReq->lastRead == TRUE) {
+    
+    FD_CLR(clientReq->reqSocket ,&readset);
+    FD_SET(clientReq->reqSocket ,&writeset);
+    
+    clientReq->nextAction = ST_CLOSE_CONN;
+    clientReq->waitType   = WAIT_WRITE;
+    clientReq->waitingFD  = clientReq->reqSocket;    
+    return;
+  }
+}
+void
+doCloseConn(ClientReq* clientReq)
+{
+  vector<ClientReq*>::iterator myIT;
+  int currFd = 0;
+  int result;
+  FD_CLR(clientReq->reqSocket, &readset);
+  FD_CLR(clientReq->reqSocket, &writeset);
+  --currentNumConn;
+  result = shutdown(clientReq->reqSocket,SHUT_WR);
+  
+  if (result == -1) {
+    cout << "shutdown: errno:" << errno << " " << strerror(errno) << endl;
+  }
+
+  close(clientReq->reqSocket);
+  
+  for(myIT = clientList.begin(); myIT !=clientList.end(); myIT++) 
+  {
+    if (clientList.size() == 0)
+		break;
+    
+    if((*myIT)->reqSocket == clientReq->reqSocket) {
+      rmClientSockets.push_back(clientReq->reqSocket);
+      break;
+    }
+  }
+  
+  if (maxFd == clientReq->reqSocket)
+      maxFd = socket1;
+
+  for(myIT = clientList.begin(); myIT !=clientList.end(); myIT++) 
+  {
+    currFd = (*myIT)->reqSocket;
+    if (currFd > maxFd)
+       maxFd = currFd;
+  }
+  if (sdFlag == FALSE) {
+    // update log      
+    updateLogfile(ACCEPT,logHdl, *clientReq, &configSetting);      
+  }
+}
+
+void
+performNextAction(ClientReq* cr)
+{
+  switch(cr->nextAction)
+  {
+    case ST_ACCUM_REQ:
+      doAccumRequest(cr);
+    break;
+
+    case ST_WRITE_HEADER:
+      doWriteHeader(cr);
+    break;
+    
+    case ST_READ_DATA:
+      doReadData(cr);
+    break;
+    
+    case ST_SEND_DATA:
+      doSendData(cr);
+    break;
+    
+    case ST_WRITE_ERROR_PAGE_HEADER:
+      doWriteErrorPgHeader(cr);
+    break;
+    
+    case ST_SEND_STATUS_PAGE:
+      doSendStatusPage(cr);
+    break;
+    
+    case ST_CLOSE_CONN:
+      doCloseConn(cr);
+    break;
+  }
+  
+}
+
+int 
+main(int argc, char** argv)
+{
+  struct sockaddr_in xferServer, xferClient;
+  struct utsname unameData;
+  
+  
+  int socket2;
+  int nready;
+  int addrlen;
+  int returnStatus;
+  int result;
+  int val;
+
+  
+  time_t t;
+  struct tm* timeLc;
+  
+  char srvIp[IP_LEN];
+  string host;
+  
+  // Check if arguments was entered
+  if(argc != 2) {
+      fprintf(stderr,"<config.cfg file> needed\n");
+      exit(1);
+  }
+
+  // Retrieve server name and version number
+  result    = uname(&unameData);
+  if(result == -1) { 
+    fprintf(stderr,
+    "Could not retrieve server information\n");
+    exit(1);
+  }
+
+  // Parse config file and init configSetting struct
+  parseConfigFile(argv[1], &configSetting);  
+  logging      = configSetting.logging;
+  recordingReq = configSetting.recording;
+  
+  sprintf(configSetting.shutdown_command,"kill -%d %d",
+          configSetting.shutdown_signal, (int)getpid());
+  // Set server information
+  setServerInfo(unameData);
+  // Set logging and recording requst setting
+  setLoggingSetting(&logHdl, &reqLogHdl);
+  // Set server Ip address
+  setServerIpAddr(srvIp);
+
+  socket1 = socket(AF_INET, SOCK_STREAM, 0);
+  // Update Log
+  updateLogfile(SERVER_TYPE,logHdl,clientReqTemp, &configSetting);    
+  // Set Non-Blocking
+  val = fcntl(socket1, F_GETFL, 0);
+  fcntl(socket1, F_SETFL, val | O_NONBLOCK);
+
+  /* create a socket */
+  if (socket1 == -1)
+  {
+    fprintf(stderr,
+    "Could not create socket!\n");
+    exit(1);
+  }
+  
+  val = 1;
+  result = setsockopt(socket1, SOL_SOCKET, SO_REUSEADDR, &val, sizeof(val));
+
+  if (result == -1)
+  {
+    fprintf(stderr,
+    "Could not create socket!\n");
+    exit(1);
+  }
+      
+  xferServer.sin_family = AF_INET;
+  xferServer.sin_addr.s_addr = inet_addr(srvIp);
+  xferServer.sin_port = htons(configSetting.port);
+  
+  returnStatus = bind(socket1,(struct sockaddr*) &xferServer,
+                      sizeof(xferServer));
+  
+  if (returnStatus == -1)
+  {
+    fprintf(stderr,
+    "Could not bind to socket!\n");
+    exit(1);
+  }
+  returnStatus = listen(socket1, 5);
+  if (returnStatus == -1)
+  {
+    fprintf(stderr,
+    "Could not listen on socket!\n");
+    exit(1);
+  }
+  // Update log
+  updateLogfile(INIT,logHdl,clientReqTemp, &configSetting);    
+  // init
+  maxFd = socket1;     
+  FD_ZERO(&readset);
+  FD_ZERO(&writeset);
+  FD_SET(socket1, &readset);
+  
+  for(;;)
+  {
+    int flag = FALSE;
+    char clientIp[IP_LEN];
+    ostringstream oss;
+
+    vector<ClientReq*>::iterator it;
+    vector<int>::iterator itTwo;
+    
+    while (TRUE)
+    {
+      if (rmClientSockets.size() == 0)
+        break;
+      else
+        flag = FALSE;
+        
+      for(it = clientList.begin(); it !=clientList.end(); it++) 
+      {
+        for(itTwo = rmClientSockets.begin(); itTwo !=rmClientSockets.end(); itTwo++)
+        {
+          if ((*it)->reqSocket == (*itTwo)){ 
+            delete (*it);
+            clientList.erase(it);
+            rmClientSockets.erase(itTwo);
+            flag = TRUE;
+            break;
+          }
+        }
+        if (flag == TRUE)
+          break; 
+      }
+    }
+    
+    // Set Signals
+    signal(SIGPIPE,signal_Handler);  
+    signal(SIGALRM,signal_Handler);
+    signal(SIGABRT,signal_Handler);  
+    signal(SIGTERM,signal_Handler);     
+	  signal(4,signal_Handler);
+    if (clientList.size() == 0 && sdFlag == FALSE) {
+      maxFd = socket1;     
+      FD_ZERO(&readset);
+      FD_ZERO(&writeset);
+      FD_SET(socket1, &readset);   
+      clientList.empty();  
+    }
+    
+    if ( sdFlag == FALSE || clientList.size() != 0) {
+      // update log      
+      nready = select(FD_SETSIZE, &readset, &writeset, NULL, NULL);
+    }
+    else {
+      updateLogfile(ALLCLOSE,logHdl, clientReqTemp, &configSetting); 
+      exit(1);
+    }
+    // New client connection, Create new FSM Instances
+    if (FD_ISSET(socket1, &readset) && sdFlag == FALSE) {   
+      // Update logfile listening on port
+      updateLogfile(LISTEN,logHdl,clientReqTemp,&configSetting);          
+      addrlen = sizeof(xferClient);
+      socket2 = accept(socket1,(struct sockaddr*) &xferClient, 
+                      (socklen_t*)&addrlen);
+      ++currentNumConn;
+      ++numOfReq;
+      if (socket2 == -1) {
+		  fprintf(stderr,"errno: %d %s\n",errno,strerror(errno));
+        if (errno == EWOULDBLOCK) {
+        }
+        else {
+          fprintf(stderr, "Could not accept connection!\n%d %s",errno,strerror(errno));
+          exit(1);
+        }
+      } 
+      else if (socket2 != -1) {
+		  
+        // Set clientFD into readset
+        FD_SET(socket2, &readset);
+        if (socket2 > maxFd)
+            maxFd = socket2;
+        
+        // Create new clientReq Obj
+        ClientReq *clientReq = new ClientReq();
+        clientReq->serverHostName = (string)configSetting.host;
+        clientReq->reqFileName    = configSetting.root;
+        clientReq->reqFileName.append("/");      
+         
+        #if DEBUG
+        cout << "created new client instance with fd:" << 
+                socket2 << endl; 
+        #endif
+        
+        // Retrieve client ip address
+        inet_ntop(AF_INET,&(xferClient.sin_addr), clientIp,INET_ADDRSTRLEN);
+        clientReq->ip.append(clientIp);
+        // Update time for logging
+        time(&t);
+        timeLc = localtime(&t);
+        oss << timeLc->tm_hour << ":" << timeLc->tm_min << ":" << timeLc->tm_sec;
+        clientReq->startTime  = oss.str();
+    
+        // Client Obj Info
+        clientReq->reqSocket  = socket2;
+        clientReq->nextAction = ST_ACCUM_REQ;
+        clientReq->waitType   = WAIT_READ;
+        clientReq->waitingFD  = socket2;
+        
+        clientList.push_back((ClientReq*)clientReq); 
+      
+        cout << "client ip:" << clientList[0]->ip << endl;
+        
+        // decrease select list
+    //    close(socket2);                 
+    //     break;
+        if ( nready == 0)
+          continue;
+      }
+    }
+
+    if (clientList.size() != 0) {
+      vector<ClientReq*>::iterator it;
+      for(it = clientList.begin(); it !=clientList.end(); it++) 
+      {
+        if (FD_ISSET((*it)->waitingFD, &readset))
+          performNextAction((*it));
+        else if (FD_ISSET((*it)->waitingFD, &writeset)) {
+          cout << "writing commences" << endl;
+          performNextAction((*it));
+//          exit(1);
+        }
+      }
+    }
+//sleep(5);
+  }
+  close(socket1);
+  freeClientList();
+  return 0;
+}
